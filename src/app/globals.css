@@ -1,26 +1,459 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ------------------------------------------------------------------
+   SACPL design tokens
+   Ink/graphite/steel for structure, warm white for paper,
+   brand navy (#324796) and signal red (#ED3C32) sampled from the logo.
+   Navy is the second brand colour: primary buttons, blueprint sections and the CTA.
+------------------------------------------------------------------- */
+@theme {
+  --color-ink: #0d1014;
+  --color-graphite: #181c22;
+  --color-graphite-2: #232831;
+  --color-steel: #5a6472;
+  --color-steel-light: #8b94a1;
+  --color-concrete: #c9ccd1;
+  --color-rule: #dcdcd6;
+  --color-paper: #f6f4ef;
+  --color-paper-2: #ecebe5;
+  --color-navy: #324796;
+  --color-navy-deep: #22326f;
+  --color-navy-light: #8fa2e6;
+  --color-navy-ink: #0f1738;
+  --color-navy-tint: #e9edf8;
+  --color-signal: #ed3c32;
+  --color-signal-dark: #c62a21;
+  --color-signal-light: #f04a40;
+
+  --font-display: var(--font-archivo), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, SFMono-Regular, monospace;
+
+  --text-display-xl: clamp(2.15rem, 1.35rem + 3.3vw, 4.5rem);
+  --text-display-xl--line-height: 1;
+  --text-display-lg: clamp(1.95rem, 1.4rem + 2.7vw, 3.75rem);
+  --text-display-lg--line-height: 1.04;
+  --text-display-md: clamp(1.6rem, 1.25rem + 1.65vw, 2.6rem);
+  --text-display-md--line-height: 1.1;
+
+  --ease-architect: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --animate-marquee: marquee var(--marquee-duration, 60s) linear infinite;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@keyframes hero-progress {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
 }
 
-@media (prefers-color-scheme: dark) {
+@keyframes marquee {
+  to { transform: translateX(-50%); }
+}
+
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    color-scheme: light;
+    --header-h: 4.5rem;
   }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: calc(var(--header-h) + 1rem);
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01", "kern";
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  p { text-wrap: pretty; }
+
+  ::selection { background: var(--color-navy); color: #fff; }
+
+  :focus-visible {
+    outline: 2px solid var(--color-signal);
+    outline-offset: 3px;
+    border-radius: 1px;
+  }
+
+  [data-theme-dark] :focus-visible { outline-color: #ff8a82; }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .container-x {
+    width: 100%;
+    max-width: 90rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 3.5rem);
+  }
+
+  /* Technical annotation label: "01 — STRUCTURAL ENGINEERING" */
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    line-height: 1rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  /* Blueprint grid backgrounds */
+  .bg-blueprint {
+    background-image:
+      linear-gradient(to right, rgb(13 16 20 / 0.06) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(13 16 20 / 0.06) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+  .bg-blueprint-navy {
+    background-image:
+      linear-gradient(to right, rgb(143 162 230 / 0.09) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(143 162 230 / 0.09) 1px, transparent 1px),
+      linear-gradient(to right, rgb(143 162 230 / 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(143 162 230 / 0.05) 1px, transparent 1px);
+    background-size: 96px 96px, 96px 96px, 24px 24px, 24px 24px;
+  }
+  .bg-blueprint-dark {
+    background-image:
+      linear-gradient(to right, rgb(255 255 255 / 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(255 255 255 / 0.05) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+
+  /* Subtle concrete grain: a tiny inline SVG noise, no extra request */
+  .texture-concrete {
+    position: relative;
+    isolation: isolate;
+  }
+  .texture-concrete::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.35;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .5 0 0 0 0 .5 0 0 0 0 .5 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* Rich text for articles and job descriptions */
+  .prose-sacpl { font-size: 1.0625rem; line-height: 1.75; color: var(--color-graphite); }
+  .prose-sacpl > * + * { margin-top: 1.1em; }
+  .prose-sacpl h2 { font-size: 1.6rem; line-height: 1.2; margin-top: 2.2em; color: var(--color-ink); }
+  .prose-sacpl h3 { font-size: 1.2rem; line-height: 1.3; margin-top: 1.8em; color: var(--color-ink); }
+  .prose-sacpl ul { list-style: none; padding: 0; }
+  .prose-sacpl ul > li { position: relative; padding-left: 1.5rem; }
+  .prose-sacpl ul > li + li { margin-top: 0.5em; }
+  .prose-sacpl ul > li::before {
+    content: ""; position: absolute; left: 0; top: 0.8em;
+    width: 0.75rem; height: 1px; background: var(--color-signal);
+  }
+  .prose-sacpl strong { color: var(--color-ink); font-weight: 600; }
+  .prose-sacpl a { color: var(--color-navy); text-decoration: underline; text-underline-offset: 3px; }
+
+  /* Page transition: an architectural wipe on route change (CSS only) */
+  .page-enter { animation: page-in 0.6s var(--ease-out-expo) both; }
+  /* Only after a client-side navigation (Header sets data-navigated), never on first load. */
+  .page-wipe { display: none; }
+  html[data-navigated] .page-wipe {
+    display: block;
+    position: fixed; inset: 0; z-index: 90; pointer-events: none;
+    background: var(--color-ink);
+    transform-origin: top;
+    animation: wipe-out 0.7s var(--ease-architect) both;
+  }
+
+  /* Directional line motion for links/buttons */
+  .link-line {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.4s var(--ease-out-expo);
+  }
+  .link-line:hover, .link-line:focus-visible { background-size: 100% 1px; }
+}
+
+/* Transform-only: content that starts at opacity 0 is never counted as LCP by Chrome. */
+@keyframes page-in {
+  from { transform: translateY(14px); }
+  to { transform: none; }
+}
+
+/*
+ * Accent text colour that stays WCAG AA on any surface: signal-dark (#c62a21, 5.0:1)
+ * on light surfaces, signal-light (#f04a40, ≥4.7:1) on dark ones. Resolved by the nearest
+ * surface ancestor through custom-property inheritance.
+ */
+:root, .bg-paper, .bg-paper-2, .bg-white { --accent: var(--color-signal-dark); }
+.bg-ink, .bg-graphite, .bg-graphite-2 { --accent: var(--color-signal-light); }
+/* Navy surfaces: lighter coral keeps small accent text at AA (≥5.4:1 on navy-deep, ≥5.9:1 on navy). */
+.bg-navy-ink, .bg-navy-deep { --accent: #ff8f87; }
+.bg-navy { --accent: #ffc9c5; }
+@utility text-accent {
+  color: var(--accent);
+}
+@keyframes wipe-out {
+  from { transform: scaleY(1); }
+  to { transform: scaleY(0); }
+}
+
+/* Homepage-only opening sequence. All movement is CSS-timed so it cannot stall
+   while a JavaScript animation library loads. */
+.intro-overlay { display: none; }
+html[data-intro="play"]:not([data-intro-state="done"]) .intro-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  color: white;
+  background: var(--color-ink);
+  clip-path: inset(0);
+  will-change: clip-path;
+  animation: intro-cinematic-exit 0.78s var(--ease-architect) 2.05s forwards, intro-hide 0s linear 2.86s forwards;
+}
+.intro-only-logo {
+  position: relative;
+  width: min(27rem, calc(100vw - 3.5rem));
+  aspect-ratio: 917 / 272;
+  isolation: isolate;
+}
+.intro-only-logo::before {
+  content: "";
+  position: absolute;
+  inset: -120%;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(50 71 150 / 0.22), transparent 58%);
+  opacity: 0;
+  transform: scale(0.72);
+  animation: intro-logo-glow 1.4s ease 0.25s forwards;
+}
+.intro-logo-shape {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  display: block;
+  background: white;
+  -webkit-mask: url('/brand/sacpl-logo-light.png') center / contain no-repeat;
+  mask: url('/brand/sacpl-logo-light.png') center / contain no-repeat;
+  opacity: 0;
+  will-change: transform, opacity, filter;
+}
+.intro-logo-shape-navy {
+  background: var(--color-navy-light);
+  filter: blur(5px) drop-shadow(0 0 22px rgb(143 162 230 / 0.55));
+  transform: translate(-2.25rem, -0.65rem) rotate(-2deg) scale(1.14);
+  animation: intro-shape-navy 1.05s var(--ease-out-expo) 0.08s forwards;
+}
+.intro-logo-shape-red {
+  background: var(--color-signal-light);
+  filter: blur(4px) drop-shadow(0 0 18px rgb(237 60 50 / 0.45));
+  transform: translate(2.1rem, 0.7rem) rotate(2deg) scale(0.9);
+  animation: intro-shape-red 1.05s var(--ease-out-expo) 0.16s forwards;
+}
+.intro-logo-shape-outline {
+  background: white;
+  filter: drop-shadow(1px 0 0 rgb(255 255 255 / 0.3)) drop-shadow(-1px 0 0 rgb(255 255 255 / 0.3));
+  transform: scale(0.82);
+  animation: intro-shape-outline 1.15s var(--ease-out-expo) 0.28s forwards;
+}
+.intro-only-logo-window { position: relative; z-index: 2; overflow: hidden; padding-block: 0.4rem; }
+.intro-only-logo-image {
+  width: 100%;
+  height: auto;
+  opacity: 0;
+  transform: translateY(0.75rem) scale(0.965);
+  filter: blur(8px) drop-shadow(0 8px 30px rgb(0 0 0 / 0.4));
+  clip-path: inset(0 50%);
+  animation: intro-only-logo-in 1.05s var(--ease-out-expo) 0.38s forwards, intro-logo-breathe 1.8s ease-in-out 1.4s infinite alternate;
+}
+.intro-only-logo-sheen {
+  position: absolute;
+  inset: -35% auto -35% -20%;
+  width: 8%;
+  background: linear-gradient(90deg, transparent, rgb(255 255 255 / 0.8), transparent);
+  filter: blur(4px);
+  opacity: 0;
+  transform: skewX(-12deg);
+  animation: intro-scan 0.65s ease 1.12s forwards;
+}
+@keyframes intro-logo-glow { to { opacity: 1; transform: scale(1); } }
+@keyframes intro-shape-navy {
+  0% { opacity: 0; }
+  30% { opacity: 0.48; }
+  76% { opacity: 0.22; transform: translate(0, 0) rotate(0) scale(1); filter: blur(1px) drop-shadow(0 0 18px rgb(143 162 230 / 0.4)); }
+  100% { opacity: 0; transform: translate(0, 0) rotate(0) scale(1); }
+}
+@keyframes intro-shape-red {
+  0% { opacity: 0; }
+  30% { opacity: 0.46; }
+  76% { opacity: 0.2; transform: translate(0, 0) rotate(0) scale(1); filter: blur(1px) drop-shadow(0 0 16px rgb(237 60 50 / 0.35)); }
+  100% { opacity: 0; transform: translate(0, 0) rotate(0) scale(1); }
+}
+@keyframes intro-shape-outline {
+  0% { opacity: 0; transform: scale(0.82); }
+  45% { opacity: 0.38; }
+  100% { opacity: 0; transform: scale(1.08); }
+}
+@keyframes intro-only-logo-in { to { opacity: 1; transform: translateY(0) scale(1); filter: blur(0) drop-shadow(0 8px 30px rgb(0 0 0 / 0.4)); clip-path: inset(0); } }
+@keyframes intro-logo-breathe { to { filter: blur(0) drop-shadow(0 8px 34px rgb(143 162 230 / 0.28)); } }
+@keyframes intro-cinematic-exit { to { clip-path: inset(0 50%); } }
+.intro-blueprint {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.055) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.055) 1px, transparent 1px),
+    radial-gradient(circle at center, rgb(50 71 150 / 0.22), transparent 58%);
+  background-size: 48px 48px, 48px 48px, 100% 100%;
+  opacity: 0;
+  animation: intro-fade 0.45s ease forwards;
+}
+.intro-ref {
+  position: absolute;
+  z-index: 2;
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.18em;
+  color: rgb(255 255 255 / 0.38);
+  opacity: 0;
+  animation: intro-fade 0.35s ease 0.25s forwards;
+}
+.intro-ref-top { top: 1.5rem; left: 1.5rem; }
+.intro-ref-bottom { right: 1.5rem; bottom: 1.5rem; }
+.intro-composition {
+  position: relative;
+  z-index: 3;
+  width: min(37rem, calc(100vw - 2.5rem));
+  padding-top: 7.75rem;
+  text-align: center;
+}
+.intro-building {
+  position: absolute;
+  left: 50%;
+  top: -4.4rem;
+  z-index: -1;
+  width: min(42rem, 96vw);
+  transform: translateX(-50%);
+  filter: drop-shadow(0 0 12px rgb(143 162 230 / 0.12));
+}
+.intro-ground { color: rgb(143 162 230 / 0.35); opacity: 0; transform-origin: center bottom; animation: intro-ground-in 0.65s var(--ease-out-expo) forwards; }
+.intro-members { color: rgb(255 255 255 / 0.72); }
+.intro-members path { stroke-dasharray: 1; stroke-dashoffset: 1; animation: intro-draw 0.65s var(--ease-out-expo) forwards; }
+.intro-forces { color: var(--color-signal-light); opacity: 0; transform: translateY(-0.75rem); animation: intro-load-in 0.4s ease 0.72s forwards; }
+.intro-forces path { stroke-dasharray: 1; stroke-dashoffset: 1; animation: intro-draw 0.5s ease 0.72s forwards; }
+.intro-feet { color: var(--color-navy-light); opacity: 0; animation: intro-fade 0.35s ease 0.65s forwards; }
+.intro-brand-lockup {
+  position: relative;
+  margin-inline: auto;
+  padding: clamp(2rem, 7vw, 3.25rem) clamp(1.5rem, 7vw, 3.5rem);
+  background: radial-gradient(ellipse at center, rgb(13 16 20 / 0.98) 15%, rgb(13 16 20 / 0.82) 48%, transparent 74%);
+}
+.intro-logo-window { position: relative; overflow: hidden; }
+.intro-logo-image {
+  width: 100%;
+  height: auto;
+  clip-path: inset(0 100% 0 0);
+  filter: drop-shadow(0 4px 22px rgb(0 0 0 / 0.35));
+  animation: intro-logo-reveal 0.82s var(--ease-out-expo) 0.55s forwards;
+}
+.intro-logo-scan {
+  position: absolute;
+  inset: -30% auto -30% -18%;
+  width: 10%;
+  background: linear-gradient(90deg, transparent, white, var(--color-signal-light), transparent);
+  filter: blur(3px);
+  opacity: 0;
+  transform: skewX(-12deg);
+  animation: intro-scan 0.7s ease 0.92s forwards;
+}
+.intro-bracket { position: absolute; width: 1rem; height: 1rem; border-color: var(--color-signal-light); opacity: 0; animation: intro-bracket-in 0.35s ease 0.45s forwards; }
+.intro-bracket-tl { top: 0; left: 0; border-top: 1px solid; border-left: 1px solid; }
+.intro-bracket-tr { top: 0; right: 0; border-top: 1px solid; border-right: 1px solid; }
+.intro-bracket-bl { bottom: 0; left: 0; border-bottom: 1px solid; border-left: 1px solid; }
+.intro-bracket-br { right: 0; bottom: 0; border-right: 1px solid; border-bottom: 1px solid; }
+.intro-principles {
+  display: grid;
+  grid-template-columns: 1fr 2.5rem 1fr 2.5rem 1fr;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+  padding-inline: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgb(255 255 255 / 0.66);
+}
+.intro-principles span { opacity: 0; transform: translateY(0.5rem); animation: intro-label-in 0.4s var(--ease-out-expo) 1.05s forwards; }
+.intro-principles span:nth-of-type(2) { animation-delay: 1.16s; }
+.intro-principles span:nth-of-type(3) { color: var(--color-signal-light); animation-delay: 1.27s; }
+.intro-principles i { height: 1px; background: var(--color-navy-light); opacity: 0; transform: scaleX(0); animation: intro-rule-in 0.4s ease 1.18s forwards; }
+.intro-message {
+  margin-top: 0.9rem;
+  padding-inline: 1rem;
+  font-family: var(--font-mono);
+  font-size: clamp(0.58rem, 1.8vw, 0.72rem);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgb(255 255 255 / 0.58);
+  opacity: 0;
+  animation: intro-fade 0.45s ease 1.32s forwards;
+}
+.intro-progress {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-signal), var(--color-navy-light));
+  transform: scaleX(0);
+  transform-origin: left;
+  animation: intro-progress-in 2.15s linear 0.08s forwards;
+}
+@keyframes intro-fade { to { opacity: 1; } }
+@keyframes intro-ground-in { from { opacity: 0; transform: scaleY(0.45); } to { opacity: 1; transform: scaleY(1); } }
+@keyframes intro-draw { to { stroke-dashoffset: 0; } }
+@keyframes intro-load-in { to { opacity: 1; transform: translateY(0); } }
+@keyframes intro-logo-reveal { to { clip-path: inset(0); } }
+@keyframes intro-scan { 0% { left: -18%; opacity: 0; } 15% { opacity: 0.9; } 100% { left: 112%; opacity: 0; } }
+@keyframes intro-bracket-in { from { opacity: 0; transform: scale(1.8); } to { opacity: 1; transform: scale(1); } }
+@keyframes intro-label-in { to { opacity: 1; transform: translateY(0); } }
+@keyframes intro-rule-in { to { opacity: 1; transform: scaleX(1); } }
+@keyframes intro-progress-in { to { transform: scaleX(1); } }
+@keyframes intro-open-page { to { clip-path: inset(0 0 100% 0); } }
+@keyframes intro-hide { to { visibility: hidden; } }
+
+@media (max-width: 639px) {
+  .intro-ref-top { top: 1rem; left: 1rem; }
+  .intro-ref-bottom { right: 1rem; bottom: 1rem; }
+  .intro-composition { width: calc(100vw - 2rem); padding-top: 6rem; }
+  .intro-building { top: -3.25rem; width: 35rem; }
+  .intro-brand-lockup { padding: 2rem 1.15rem; }
+  .intro-principles { grid-template-columns: 1fr 0.75rem 1fr 0.75rem 1fr; gap: 0.2rem; font-size: 0.48rem; letter-spacing: 0.07em; }
+  .intro-message { font-size: 0.52rem; letter-spacing: 0.1em; }
+}
+
+@media (max-height: 620px) {
+  .intro-composition { transform: scale(0.84); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .page-wipe, .intro-overlay { display: none !important; }
 }

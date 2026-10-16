@@ -1,0 +1,2205 @@
+{
+  "generatedAt": "2026-10-16T09:17:11.049Z",
+  "items": [
+    {
+      "type": "logo",
+      "original": "https://www.sacpl.co/newLogo.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FnewLogo.png&w=…",
+      "alt": "SACPL",
+      "local": "/brand/sacpl-logo.png",
+      "bytes": 132062,
+      "width": 917,
+      "height": 272
+    },
+    {
+      "type": "logo-variant",
+      "original": "derived from /newLogo.png",
+      "alt": "SACPL",
+      "local": "/brand/sacpl-logo-light.png",
+      "bytes": 37913,
+      "width": 917,
+      "height": 272
+    },
+    {
+      "type": "logo",
+      "original": "https://www.sacpl.co/logo.avif",
+      "alt": "SACPL",
+      "local": "/brand/sacpl-logo-small.avif",
+      "bytes": 2819,
+      "width": 224,
+      "height": 66
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero6.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero6.avif&w=…",
+      "sourceName": "hero6.avif",
+      "local": "/media/hero/hero-01.webp",
+      "bytes": 219416,
+      "width": 1331,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero7.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero7.avif&w=…",
+      "sourceName": "hero7.avif",
+      "local": "/media/hero/hero-02.webp",
+      "bytes": 156840,
+      "width": 937,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero2.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero2.avif&w=…",
+      "sourceName": "hero2.avif",
+      "local": "/media/hero/hero-03.webp",
+      "bytes": 109218,
+      "width": 822,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/herp3.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fherp3.avif&w=…",
+      "sourceName": "herp3.avif",
+      "local": "/media/hero/hero-04.webp",
+      "bytes": 150946,
+      "width": 972,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero4.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero4.avif&w=…",
+      "sourceName": "hero4.avif",
+      "local": "/media/hero/hero-05.webp",
+      "bytes": 103018,
+      "width": 1073,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero5.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero5.avif&w=…",
+      "sourceName": "hero5.avif",
+      "local": "/media/hero/hero-06.webp",
+      "bytes": 91406,
+      "width": 899,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero8.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero8.avif&w=…",
+      "sourceName": "hero8.avif",
+      "local": "/media/hero/hero-07.webp",
+      "bytes": 132714,
+      "width": 971,
+      "height": 547
+    },
+    {
+      "type": "hero",
+      "original": "https://www.sacpl.co/Hero/hero1.avif",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FHero%2Fhero1.avif&w=…",
+      "sourceName": "hero1.avif",
+      "local": "/media/hero/hero-08.webp",
+      "bytes": 71328,
+      "width": 875,
+      "height": 547
+    },
+    {
+      "type": "project-image",
+      "project": "39th-national-games",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/39THNATIONALGAMES.jpg",
+      "alt": "39th National Games, SHILLONG — project image",
+      "local": "/media/projects/39th-national-games.webp",
+      "bytes": 53290,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "acme-oasis",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/AcmeOasis.jpg",
+      "alt": "Acme Oasis, Kandivali, Mumbai — project image",
+      "local": "/media/projects/acme-oasis.webp",
+      "bytes": 44084,
+      "width": 414,
+      "height": 594
+    },
+    {
+      "type": "project-image",
+      "project": "admin-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/AdminBuilding.jpg",
+      "alt": "Admin Building, Panoli, Gujarat — project image",
+      "local": "/media/projects/admin-building.webp",
+      "bytes": 18602,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "aleenta-sale-and-rehab-bldg",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/ALEENTASALE&REHABBLDG.png",
+      "alt": "Aleenta Sale & Rehab Bldg, Vashi, New Mumbai — project image",
+      "local": "/media/projects/aleenta-sale-and-rehab-bldg.webp",
+      "bytes": 45090,
+      "width": 524,
+      "height": 527
+    },
+    {
+      "type": "project-image",
+      "project": "anarkali-hotel",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/ANARKIAHOTEL.jpg",
+      "alt": "Anarkali Hotel, Mahabaleshwar — project image",
+      "local": "/media/projects/anarkali-hotel.webp",
+      "bytes": 30442,
+      "width": 502,
+      "height": 590
+    },
+    {
+      "type": "project-image",
+      "project": "anna-nagar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/AnnaNagar.jpg",
+      "alt": "Anna Nagar, Chennai — project image",
+      "local": "/media/projects/anna-nagar.webp",
+      "bytes": 21624,
+      "width": 430,
+      "height": 430
+    },
+    {
+      "type": "project-image",
+      "project": "arihant-aspire",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/ArihantAspire.jpg",
+      "alt": "Arihant Aspire, Panvel, Mumbai — project image",
+      "local": "/media/projects/arihant-aspire.webp",
+      "bytes": 53086,
+      "width": 504,
+      "height": 378
+    },
+    {
+      "type": "project-image",
+      "project": "aristo-saphire",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/ARISTOSAPHIRE.jpg",
+      "alt": "Aristo Saphire, Santa Cruz, Mumbai, IN — project image",
+      "local": "/media/projects/aristo-saphire.webp",
+      "bytes": 55132,
+      "width": 567,
+      "height": 504
+    },
+    {
+      "type": "project-image",
+      "project": "asian-heart-hospital",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/AsianHeartHospital.png",
+      "alt": "Asian Heart Hospital, BKC , MUMBAI — project image",
+      "local": "/media/projects/asian-heart-hospital.webp",
+      "bytes": 74398,
+      "width": 1113,
+      "height": 573
+    },
+    {
+      "type": "project-image",
+      "project": "b-safal-privilon",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/SafalPrivilon.jpg",
+      "alt": "B Safal Privilon, Ahmedabad — project image",
+      "local": "/media/projects/b-safal-privilon.webp",
+      "bytes": 64100,
+      "width": 576,
+      "height": 490
+    },
+    {
+      "type": "project-image",
+      "project": "bandra-educational-international-school",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/BANDRAEDUCATIONALINTERNATIONALSCHOOL.png",
+      "alt": "Bandra Educational International School, Bandra, Mumbai — project image",
+      "local": "/media/projects/bandra-educational-international-school.webp",
+      "bytes": 28960,
+      "width": 471,
+      "height": 527
+    },
+    {
+      "type": "project-image",
+      "project": "bdd-chawl-redevelopment",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/BDDCHAWL.png",
+      "alt": "BDD CHAWL Redevelopment, Naigaon , Worli - Mumbai — project image",
+      "local": "/media/projects/bdd-chawl-redevelopment.webp",
+      "bytes": 71646,
+      "width": 804,
+      "height": 542
+    },
+    {
+      "type": "project-image",
+      "project": "bhandary-vertica",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/BhandaryVertica.jpg",
+      "alt": "Bhandary Vertica, Karnataka, Mangalore — project image",
+      "local": "/media/projects/bhandary-vertica.webp",
+      "bytes": 32854,
+      "width": 504,
+      "height": 504
+    },
+    {
+      "type": "project-image",
+      "project": "bhoomi-celestia",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/BhoomiCelestia.jpg",
+      "alt": "Bhoomi Celestia, Malad(W), Mumbai — project image",
+      "local": "/media/projects/bhoomi-celestia.webp",
+      "bytes": 47286,
+      "width": 414,
+      "height": 594
+    },
+    {
+      "type": "project-image",
+      "project": "boulevard-heights",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/BoulevardHeights.jpg",
+      "alt": "Boulevard Heights, Downtown, Dubai — project image",
+      "local": "/media/projects/boulevard-heights.webp",
+      "bytes": 31714,
+      "width": 445,
+      "height": 490
+    },
+    {
+      "type": "project-image",
+      "project": "brookhill",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/Brookhill.avif",
+      "alt": "Brookhill, Thane, Mumbai, IN — project image",
+      "local": "/media/projects/brookhill.webp",
+      "bytes": 95870,
+      "width": 486,
+      "height": 714
+    },
+    {
+      "type": "project-image",
+      "project": "bulk-drug-plant",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/BulkDrugPlant.jpg",
+      "alt": "Bulk Drug Plant, Ambernath, Maharashtra — project image",
+      "local": "/media/projects/bulk-drug-plant.webp",
+      "bytes": 21672,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "cambridge-school",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/CambridgeSchool.jpg",
+      "alt": "Cambridge School, Kandivali, Mumbai, IN — project image",
+      "local": "/media/projects/cambridge-school.webp",
+      "bytes": 24990,
+      "width": 576,
+      "height": 342
+    },
+    {
+      "type": "project-image",
+      "project": "cancer-care-centre-shantilal-shanghvi",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/CANCERCARECENTRE:SHANTILALSHANGHVI.png",
+      "alt": "Cancer Care Centre : Shantilal Shanghvi, Wadala, Mumbai — project image",
+      "local": "/media/projects/cancer-care-centre-shantilal-shanghvi.webp",
+      "bytes": 23216,
+      "width": 504,
+      "height": 481
+    },
+    {
+      "type": "project-image",
+      "project": "capital-complex-raipur",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/CapitalComplexRaipur.jpg",
+      "alt": "Capital Complex Raipur, Raipur, India — project image",
+      "local": "/media/projects/capital-complex-raipur.webp",
+      "bytes": 27448,
+      "width": 576,
+      "height": 383
+    },
+    {
+      "type": "project-image",
+      "project": "cdpl-bhopal-stadium",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/CDPL-BHOPAL-STADIUM.png",
+      "alt": "Cdpl-bhopal-stadium, Bhopal — project image",
+      "local": "/media/projects/cdpl-bhopal-stadium.webp",
+      "bytes": 64074,
+      "width": 735,
+      "height": 490
+    },
+    {
+      "type": "project-image",
+      "project": "centrio-nx-by-mj-shah",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/NORTHSANKALPSALEBUILDING.png",
+      "alt": "Centrio NX By MJ SHAH, Govandi, Mumbai — project image",
+      "local": "/media/projects/centrio-nx-by-mj-shah.webp",
+      "bytes": 49346,
+      "width": 497,
+      "height": 547
+    },
+    {
+      "type": "project-image",
+      "project": "challenger-tower",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/ChallengerTower.avif",
+      "alt": "Challenger Tower, Kandivali, Mumbai, IN — project image",
+      "local": "/media/projects/challenger-tower.webp",
+      "bytes": 36908,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "cine-wonder-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/CinewonderMall.png",
+      "alt": "Cine wonder Mall, Thane — project image",
+      "local": "/media/projects/cine-wonder-mall.webp",
+      "bytes": 21950,
+      "width": 577,
+      "height": 333
+    },
+    {
+      "type": "project-image",
+      "project": "coimbatore-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/CoimbatoreMall.png",
+      "alt": "Coimbatore Mall, Coimbatore — project image",
+      "local": "/media/projects/coimbatore-mall.webp",
+      "bytes": 26350,
+      "width": 607,
+      "height": 303
+    },
+    {
+      "type": "project-image",
+      "project": "constillation",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/Constillation.jpg",
+      "alt": "Constillation, Khar, Mumbai, IN — project image",
+      "local": "/media/projects/constillation.webp",
+      "bytes": 40706,
+      "width": 534,
+      "height": 462
+    },
+    {
+      "type": "project-image",
+      "project": "construction-of-2000-units-social-housing",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/Constructionof2000UnitsSocialHousing.jpg",
+      "alt": "Construction of 2000 Units Social Housing, Hulhumale, Republic of Maldives — project image",
+      "local": "/media/projects/construction-of-2000-units-social-housing.webp",
+      "bytes": 24346,
+      "width": 430,
+      "height": 430
+    },
+    {
+      "type": "project-image",
+      "project": "convention-centre",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/ConventionCentre.jpg",
+      "alt": "Convention Centre, Khajuraho, India — project image",
+      "local": "/media/projects/convention-centre.webp",
+      "bytes": 21730,
+      "width": 504,
+      "height": 238
+    },
+    {
+      "type": "project-image",
+      "project": "decathlon-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/Decathlon-WareHouse.jpg",
+      "alt": "Decathlon - Warehouse, Mallur, Tamil Nadu — project image",
+      "local": "/media/projects/decathlon-warehouse.webp",
+      "bytes": 23672,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "doha-city-center",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/DohaCityCenter.jpg",
+      "alt": "Doha City Center, Dubai — project image",
+      "local": "/media/projects/doha-city-center.webp",
+      "bytes": 52884,
+      "width": 504,
+      "height": 443
+    },
+    {
+      "type": "project-image",
+      "project": "dr-y-s-parmar-medical-college",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/DR.Y.S.PARMARMEDICALCOLLEGE.png",
+      "alt": "DR. Y.S. Parmar Medical College, Dist Sirmaur, Nahan, Himachal Pradesh — project image",
+      "local": "/media/projects/dr-y-s-parmar-medical-college.webp",
+      "bytes": 30904,
+      "width": 504,
+      "height": 435
+    },
+    {
+      "type": "project-image",
+      "project": "dwarkesh-fragrance",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/DWARKESHFRAGRANCE.avif",
+      "alt": "Dwarkesh Fragrance, Ahmedabad, Gujarat — project image",
+      "local": "/media/projects/dwarkesh-fragrance.webp",
+      "bytes": 32238,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "educational-international-school",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/BANDRAEDUCATIONALINTERNATIONALSCHOOL.png",
+      "alt": "Educational International School, Andheri, Mumbai — project image",
+      "local": "/media/projects/educational-international-school.webp",
+      "bytes": 28960,
+      "width": 471,
+      "height": 527
+    },
+    {
+      "type": "project-image",
+      "project": "evershine-i-wing",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/EVERSHINEIWING.png",
+      "alt": "Evershine I Wing, Virar, Palghar — project image",
+      "local": "/media/projects/evershine-i-wing.webp",
+      "bytes": 49470,
+      "width": 458,
+      "height": 478
+    },
+    {
+      "type": "project-image",
+      "project": "evershine-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/EvershineMall.png",
+      "alt": "Evershine Mall, Mumbai — project image",
+      "local": "/media/projects/evershine-mall.webp",
+      "bytes": 25208,
+      "width": 378,
+      "height": 465
+    },
+    {
+      "type": "project-image",
+      "project": "evershine-millenium-paradise",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/EvershineMilleniumParadise.jpg",
+      "alt": "Evershine Millenium Paradise, Kandivali, Mumbai, IN — project image",
+      "local": "/media/projects/evershine-millenium-paradise.webp",
+      "bytes": 14264,
+      "width": 266,
+      "height": 189
+    },
+    {
+      "type": "project-image",
+      "project": "eye-institute-shantilal-shanghvi",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/EYEINSTITUTE:SHANTILALSHANGHVI.png",
+      "alt": "Eye Institute : Shantilal Shanghvi, Wadala, Mumbai — project image",
+      "local": "/media/projects/eye-institute-shantilal-shanghvi.webp",
+      "bytes": 23216,
+      "width": 504,
+      "height": 481
+    },
+    {
+      "type": "project-image",
+      "project": "farukhnagar-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/FarukhanagarWarehouse_1.png",
+      "alt": "Farukhnagar Warehouse, Farukhnagar , Delhi — project image",
+      "local": "/media/projects/farukhnagar-warehouse.webp",
+      "bytes": 50784,
+      "width": 654,
+      "height": 341
+    },
+    {
+      "type": "project-image",
+      "project": "fiona",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/Fiona.avif",
+      "alt": "Fiona, Surat, Gujarat — project image",
+      "local": "/media/projects/fiona.webp",
+      "bytes": 51322,
+      "width": 486,
+      "height": 397
+    },
+    {
+      "type": "project-image",
+      "project": "firm-vashi-bus-depot-navi-mumbai",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Publicprojects/FIRM-VASHI-BUS-DEPOT-NAVI-MUMBAI.png",
+      "alt": "Firm-vashi-bus-depot-navi-mumbai, Navi Mumbai — project image",
+      "local": "/media/projects/firm-vashi-bus-depot-navi-mumbai.webp",
+      "bytes": 23536,
+      "width": 468,
+      "height": 488
+    },
+    {
+      "type": "project-image",
+      "project": "football-stadium-and-sports-complex",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/FOOTBALLSTADIUM&SPORTSCOMPLEX.jpg",
+      "alt": "Football Stadium & Sports Complex, Dhankawadi, Pune — project image",
+      "local": "/media/projects/football-stadium-and-sports-complex.webp",
+      "bytes": 37090,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "formulation-plant-mahad",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/FormulationPlantMahad.jpg",
+      "alt": "Formulation Plant Mahad, Mahad, Maharashtra — project image",
+      "local": "/media/projects/formulation-plant-mahad.webp",
+      "bytes": 21610,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "hca-stadium",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/HCASTADIUM.jpg",
+      "alt": "HCA Stadium, Jhajar Bhivani, Haryana — project image",
+      "local": "/media/projects/hca-stadium.webp",
+      "bytes": 83060,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "hilton",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/HILTON.jpg",
+      "alt": "Hilton, Varanasi — project image",
+      "local": "/media/projects/hilton.webp",
+      "bytes": 53840,
+      "width": 500,
+      "height": 475
+    },
+    {
+      "type": "project-image",
+      "project": "hockey-training-centres",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/HOCKEYTRAININGCENTRES.jpg",
+      "alt": "Hockey Training Centres, 16 LOCATIONS, ODISHA — project image",
+      "local": "/media/projects/hockey-training-centres.webp",
+      "bytes": 42124,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "hostel-building-hindustan-zinc-pvt-ltd",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/HostelBuildingHindustanZincPvt.Ltd.jpg",
+      "alt": "Hostel Building Hindustan Zinc Pvt. Ltd, Rajasthan, India — project image",
+      "local": "/media/projects/hostel-building-hindustan-zinc-pvt-ltd.webp",
+      "bytes": 20296,
+      "width": 361,
+      "height": 300
+    },
+    {
+      "type": "project-image",
+      "project": "hotel-holiday-inn",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/HOLIDAYINN.jpg",
+      "alt": "Hotel Holiday Inn, Shirdi — project image",
+      "local": "/media/projects/hotel-holiday-inn.webp",
+      "bytes": 21140,
+      "width": 500,
+      "height": 342
+    },
+    {
+      "type": "project-image",
+      "project": "hotel-novotel",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/NOVOTEL.jpg",
+      "alt": "Hotel Novotel, Lucknow — project image",
+      "local": "/media/projects/hotel-novotel.webp",
+      "bytes": 18136,
+      "width": 502,
+      "height": 356
+    },
+    {
+      "type": "project-image",
+      "project": "hubli-library",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/HubliLibrary.jpg",
+      "alt": "Hubli Library, Hubli, India — project image",
+      "local": "/media/projects/hubli-library.webp",
+      "bytes": 30316,
+      "width": 424,
+      "height": 424
+    },
+    {
+      "type": "project-image",
+      "project": "hyatt-puri",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/HYATT-Puri.png",
+      "alt": "Hyatt - Puri, Puri , Odisha — project image",
+      "local": "/media/projects/hyatt-puri.webp",
+      "bytes": 25248,
+      "width": 582,
+      "height": 591
+    },
+    {
+      "type": "project-image",
+      "project": "hyderabad-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/HyderabadWarehouse_1.png",
+      "alt": "Hyderabad Warehouse, Hyderabad — project image",
+      "local": "/media/projects/hyderabad-warehouse.webp",
+      "bytes": 163522,
+      "width": 1536,
+      "height": 785
+    },
+    {
+      "type": "project-image",
+      "project": "hyderabad-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/HyderabadWarehouse_1.png",
+      "alt": "Hyderabad Warehouse, Hyderabad — project image 2",
+      "local": "/media/projects/hyderabad-warehouse-2.webp",
+      "bytes": 163522,
+      "width": 1536,
+      "height": 785
+    },
+    {
+      "type": "project-image",
+      "project": "ibis-hotel-alrigga",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/IBISHOTEL(Alrigga).jpg",
+      "alt": "IBIS HOTEL (Alrigga), Alrigga, Dubai — project image",
+      "local": "/media/projects/ibis-hotel-alrigga.webp",
+      "bytes": 32612,
+      "width": 502,
+      "height": 355
+    },
+    {
+      "type": "project-image",
+      "project": "ibis-hotel-thane",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/IBISHOTEL(Thane).jpg",
+      "alt": "IBIS HOTEL (Thane), Thane — project image",
+      "local": "/media/projects/ibis-hotel-thane.webp",
+      "bytes": 28248,
+      "width": 499,
+      "height": 571
+    },
+    {
+      "type": "project-image",
+      "project": "ibis-hotel-vagator",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/IBISHOTEL(Vagator).jpg",
+      "alt": "IBIS HOTEL (Vagator), Vagator, Goa — project image",
+      "local": "/media/projects/ibis-hotel-vagator.webp",
+      "bytes": 39732,
+      "width": 500,
+      "height": 346
+    },
+    {
+      "type": "project-image",
+      "project": "icon-jacob-circle",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/ICON-Jacobcircle_1.jpeg",
+      "alt": "ICON - Jacob circle, Byculla , Mumbai — project image",
+      "local": "/media/projects/icon-jacob-circle.webp",
+      "bytes": 490182,
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "type": "project-image",
+      "project": "iilabs",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/IILABS.png",
+      "alt": "IILABS, Gurugram — project image",
+      "local": "/media/projects/iilabs.webp",
+      "bytes": 21908,
+      "width": 475,
+      "height": 320
+    },
+    {
+      "type": "project-image",
+      "project": "indian-bank",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/IndianBank.jpg",
+      "alt": "Indian Bank, Chennai, India — project image",
+      "local": "/media/projects/indian-bank.webp",
+      "bytes": 29970,
+      "width": 423,
+      "height": 423
+    },
+    {
+      "type": "project-image",
+      "project": "infiniti-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/INFINITIMALL.png",
+      "alt": "Infiniti Mall, Andheri , Mumbai — project image",
+      "local": "/media/projects/infiniti-mall.webp",
+      "bytes": 29438,
+      "width": 567,
+      "height": 459
+    },
+    {
+      "type": "project-image",
+      "project": "inorbit-mall-vadodara",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/:InorbitMall-Vadodara.png",
+      "alt": "Inorbit Mall-Vadodara, Vadodara — project image",
+      "local": "/media/projects/inorbit-mall-vadodara.webp",
+      "bytes": 66644,
+      "width": 913,
+      "height": 515
+    },
+    {
+      "type": "project-image",
+      "project": "international-cricket-stadium-itanagar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/INTERNATIONALCRICKETSTADIUM,ITANAGAR.jpg",
+      "alt": "International Cricket Stadium, Itanagar, ITANAGAR, Arunachal Pradesh — project image",
+      "local": "/media/projects/international-cricket-stadium-itanagar.webp",
+      "bytes": 37946,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "international-cricket-stadium-maldives",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/INTERNATIONALCRICKETSTADIUM,MALDIVES.jpg",
+      "alt": "International Cricket Stadium, Maldives, MALDIVES — project image",
+      "local": "/media/projects/international-cricket-stadium-maldives.webp",
+      "bytes": 31666,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "it-park-for-i-flex",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/ITParkforI-Flex.jpg",
+      "alt": "IT Park for I-Flex, Ambrosia, Pune — project image",
+      "local": "/media/projects/it-park-for-i-flex.webp",
+      "bytes": 25506,
+      "width": 587,
+      "height": 326
+    },
+    {
+      "type": "project-image",
+      "project": "jasper",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/JASPER.avif",
+      "alt": "Jasper, Thane, Mumbai, IN — project image",
+      "local": "/media/projects/jasper.webp",
+      "bytes": 55012,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "jn-integrated-hospitality-and-sports-complex",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/JNINTEGRATEDHOSPITALITY&SPORTSCOMPLEX.jpg",
+      "alt": "JN Integrated Hospitality & Sports Complex, SHILLONG — project image",
+      "local": "/media/projects/jn-integrated-hospitality-and-sports-complex.webp",
+      "bytes": 45072,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "jn-stadium-complex-upgradation",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/JNSTADIUMCOMPLEXUPGRADATION.jpg",
+      "alt": "JN Stadium Complex Upgradation, SHILLONG — project image",
+      "local": "/media/projects/jn-stadium-complex-upgradation.webp",
+      "bytes": 26602,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "jnpt-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/JNPT-Warehouse_1.png",
+      "alt": "JNPT - Warehouse, JNPT - Navi Mumbai — project image",
+      "local": "/media/projects/jnpt-warehouse.webp",
+      "bytes": 79194,
+      "width": 1023,
+      "height": 398
+    },
+    {
+      "type": "project-image",
+      "project": "kalinga-international-sports-complex-aquatics",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/KALINGAINTERNATIONALSPORTSCOMPLEX.jpg",
+      "alt": "Kalinga International Sports Complex - Aquatics, Bhubaneswar — project image",
+      "local": "/media/projects/kalinga-international-sports-complex-aquatics.webp",
+      "bytes": 203166,
+      "width": 2000,
+      "height": 1125
+    },
+    {
+      "type": "project-image",
+      "project": "kalinga-international-sports-complex-athletics",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/KALINGAINTERNATIONALSPORTSCOMPLEX-Athletics.jpg",
+      "alt": "Kalinga International Sports Complex - Athletics, Bhubaneswar — project image",
+      "local": "/media/projects/kalinga-international-sports-complex-athletics.webp",
+      "bytes": 203694,
+      "width": 2000,
+      "height": 1125
+    },
+    {
+      "type": "project-image",
+      "project": "kalinga-international-sports-complex-tennis-court",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Sports/KALINGAINTERNATIONALSPORTSCOMPLEX-TENNIS.jpg",
+      "alt": "Kalinga International Sports Complex - Tennis Court, Bhubaneswar — project image",
+      "local": "/media/projects/kalinga-international-sports-complex-tennis-court.webp",
+      "bytes": 221094,
+      "width": 2000,
+      "height": 1125
+    },
+    {
+      "type": "project-image",
+      "project": "kalyan-residency-metro-residency-and-grande",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/KalyanResidency.avif",
+      "alt": "Kalyan Residency - Metro Residency & Grande, Ahmedabad, Gujarat — project image",
+      "local": "/media/projects/kalyan-residency-metro-residency-and-grande.webp",
+      "bytes": 30668,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "kanakia-boomerang",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/KanakiaBoomerang.jpg",
+      "alt": "Kanakia Boomerang, Mumbai — project image",
+      "local": "/media/projects/kanakia-boomerang.webp",
+      "bytes": 14292,
+      "width": 300,
+      "height": 168
+    },
+    {
+      "type": "project-image",
+      "project": "kanakia-levels",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/KanakiaLevels.avif",
+      "alt": "Kanakia Levels, Malad, Mumbai — project image",
+      "local": "/media/projects/kanakia-levels.webp",
+      "bytes": 49538,
+      "width": 479,
+      "height": 538
+    },
+    {
+      "type": "project-image",
+      "project": "kanakia-sevens",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/KanakiaSevens.jpg",
+      "alt": "Kanakia Sevens, Malad, Mumbai, IN — project image",
+      "local": "/media/projects/kanakia-sevens.webp",
+      "bytes": 58878,
+      "width": 564,
+      "height": 403
+    },
+    {
+      "type": "project-image",
+      "project": "kanakia-silicon-valley",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/KanakiaSiliconValley.png",
+      "alt": "Kanakia Silicon Valley, Powai Mumbai — project image",
+      "local": "/media/projects/kanakia-silicon-valley.webp",
+      "bytes": 97460,
+      "width": 1178,
+      "height": 400
+    },
+    {
+      "type": "project-image",
+      "project": "kumaria-residency",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/KUMARIARESIDENCY.jpg",
+      "alt": "Kumaria Residency, Andheri, Mumbai — project image",
+      "local": "/media/projects/kumaria-residency.webp",
+      "bytes": 43364,
+      "width": 502,
+      "height": 594
+    },
+    {
+      "type": "project-image",
+      "project": "lanco-hills-it6",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/LancoHillsIT6.jpg",
+      "alt": "Lanco Hills IT6, Hyderabad — project image",
+      "local": "/media/projects/lanco-hills-it6.webp",
+      "bytes": 10032,
+      "width": 224,
+      "height": 225
+    },
+    {
+      "type": "project-image",
+      "project": "link-view",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/LINKVIEW.avif",
+      "alt": "Link View, Sports City, Dubai — project image",
+      "local": "/media/projects/link-view.webp",
+      "bytes": 43222,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "lotus-sky-garden",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/LotusSkyGarden.jpg",
+      "alt": "Lotus Sky Garden, Malad, Mumbai — project image",
+      "local": "/media/projects/lotus-sky-garden.webp",
+      "bytes": 10296,
+      "width": 170,
+      "height": 296
+    },
+    {
+      "type": "project-image",
+      "project": "makhanlal-university-bhopal",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/MakhanlalUniversity,Bhopal.png",
+      "alt": "Makhanlal University, Bhopal, Bhopal — project image",
+      "local": "/media/projects/makhanlal-university-bhopal.webp",
+      "bytes": 51554,
+      "width": 600,
+      "height": 470
+    },
+    {
+      "type": "project-image",
+      "project": "malur-warehouse",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/Malur-Warehouse_1.png",
+      "alt": "Malur - Warehouse, Malur , Chennai — project image",
+      "local": "/media/projects/malur-warehouse.webp",
+      "bytes": 166574,
+      "width": 967,
+      "height": 675
+    },
+    {
+      "type": "project-image",
+      "project": "marriott-autograph-collection",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/MARRIOTAUTOGRAPHCOLLECTION.jpg",
+      "alt": "Marriott Autograph Collection, Dominica — project image",
+      "local": "/media/projects/marriott-autograph-collection.webp",
+      "bytes": 45340,
+      "width": 500,
+      "height": 338
+    },
+    {
+      "type": "project-image",
+      "project": "mawkdook-pedestrian-overlook",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Publicprojects/MawkdookPedestrianOverlook.png",
+      "alt": "Mawkdook Pedestrian Overlook, SHILLONG — project image",
+      "local": "/media/projects/mawkdook-pedestrian-overlook.webp",
+      "bytes": 21028,
+      "width": 771,
+      "height": 322
+    },
+    {
+      "type": "project-image",
+      "project": "mechnikov-biotechnology-company-nicaragua",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Publicprojects/MECHNIKOVBIOTECHNOLOGYCOMPANYNicaragua.png",
+      "alt": "Mechnikov Biotechnology company - Nicaragua, Nicaragua — project image",
+      "local": "/media/projects/mechnikov-biotechnology-company-nicaragua.webp",
+      "bytes": 29714,
+      "width": 608,
+      "height": 310
+    },
+    {
+      "type": "project-image",
+      "project": "metro",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/Metro.jpg",
+      "alt": "Metro, Kandivali — project image",
+      "local": "/media/projects/metro.webp",
+      "bytes": 34432,
+      "width": 576,
+      "height": 347
+    },
+    {
+      "type": "project-image",
+      "project": "mind-space",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/MindSpace.jpg",
+      "alt": "Mind Space, Malad, Mumbai — project image",
+      "local": "/media/projects/mind-space.webp",
+      "bytes": 18574,
+      "width": 253,
+      "height": 199
+    },
+    {
+      "type": "project-image",
+      "project": "mittal-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/MitthalMall.png",
+      "alt": "Mittal Mall, Ajmer — project image",
+      "local": "/media/projects/mittal-mall.webp",
+      "bytes": 29988,
+      "width": 502,
+      "height": 472
+    },
+    {
+      "type": "project-image",
+      "project": "navi-mumbai-municipal-corporation-hq",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/NaviMumbaiMunicipalCorporationHQ.jpg",
+      "alt": "Navi Mumbai Municipal Corporation HQ, Navi Mumbai, India — project image",
+      "local": "/media/projects/navi-mumbai-municipal-corporation-hq.webp",
+      "bytes": 8528,
+      "width": 240,
+      "height": 210
+    },
+    {
+      "type": "project-image",
+      "project": "navi-mumbai-municipal-corporation-hq",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/NaviMumbaiMunicipalCorporationHQ_1.jpg",
+      "alt": "Navi Mumbai Municipal Corporation HQ, Navi Mumbai, India — project image 2",
+      "local": "/media/projects/navi-mumbai-municipal-corporation-hq-2.webp",
+      "bytes": 189146,
+      "width": 1920,
+      "height": 1282
+    },
+    {
+      "type": "project-image",
+      "project": "netaji-nagar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/NetajiNagar.jpg",
+      "alt": "Netaji Nagar, New Delhi, India — project image",
+      "local": "/media/projects/netaji-nagar.webp",
+      "bytes": 73228,
+      "width": 576,
+      "height": 373
+    },
+    {
+      "type": "project-image",
+      "project": "nirma-university",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/NirmaUniversity.jpg",
+      "alt": "Nirma University, Ahmedabad, India — project image",
+      "local": "/media/projects/nirma-university.webp",
+      "bytes": 27678,
+      "width": 576,
+      "height": 400
+    },
+    {
+      "type": "project-image",
+      "project": "nitin-killawala-villa",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/NitinKhillawalaVilla.png",
+      "alt": "Nitin Killawala Villa, Juhu — project image",
+      "local": "/media/projects/nitin-killawala-villa.webp",
+      "bytes": 122910,
+      "width": 697,
+      "height": 540
+    },
+    {
+      "type": "project-image",
+      "project": "nmims-hospital-and-medical-college",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/NMIMSHOSPITAL&MEDICALCOLLEGE_1.png",
+      "alt": "NMIMS Hospital & Medical College, Shirpur — project image",
+      "local": "/media/projects/nmims-hospital-and-medical-college.webp",
+      "bytes": 124244,
+      "width": 1104,
+      "height": 636
+    },
+    {
+      "type": "project-image",
+      "project": "north-jai-rameshwar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/NORTHJAIRAMESHWAR.png",
+      "alt": "North Jai Rameshwar, Goregaon, Mumbai — project image",
+      "local": "/media/projects/north-jai-rameshwar.webp",
+      "bytes": 21294,
+      "width": 363,
+      "height": 530
+    },
+    {
+      "type": "project-image",
+      "project": "north-sankalp-rehab-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/NORTHSANKALPREHABBUILDING.png",
+      "alt": "North Sankalp Rehab Building, Govandi, Mumbai — project image",
+      "local": "/media/projects/north-sankalp-rehab-building.webp",
+      "bytes": 49678,
+      "width": 569,
+      "height": 544
+    },
+    {
+      "type": "project-image",
+      "project": "northern-hills",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/NorthernHills.png",
+      "alt": "Northern Hills, Dahisar , Mumbai — project image",
+      "local": "/media/projects/northern-hills.webp",
+      "bytes": 24160,
+      "width": 302,
+      "height": 520
+    },
+    {
+      "type": "project-image",
+      "project": "one-meraki",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/OneMeraki.png",
+      "alt": "One Meraki, Chembur, Mumbai — project image",
+      "local": "/media/projects/one-meraki.webp",
+      "bytes": 55322,
+      "width": 864,
+      "height": 520
+    },
+    {
+      "type": "project-image",
+      "project": "onxy-mall",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/ONXYMALL.webp",
+      "alt": "ONXY Mall, Jamshedpur — project image",
+      "local": "/media/projects/onxy-mall.webp",
+      "bytes": 153478,
+      "width": 1210,
+      "height": 1020
+    },
+    {
+      "type": "project-image",
+      "project": "pediatric-cancer-care-shantilal-shanghvi",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/PEDIATRICCANCERCARE:SHANTILALSHANGHVI.png",
+      "alt": "Pediatric Cancer Care : Shantilal Shanghvi — project image",
+      "local": "/media/projects/pediatric-cancer-care-shantilal-shanghvi.webp",
+      "bytes": 32074,
+      "width": 504,
+      "height": 512
+    },
+    {
+      "type": "project-image",
+      "project": "pernem-bustop",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/PernemBustop.jpg",
+      "alt": "Pernem Bustop, Goa, India — project image",
+      "local": "/media/projects/pernem-bustop.webp",
+      "bytes": 27502,
+      "width": 504,
+      "height": 250
+    },
+    {
+      "type": "project-image",
+      "project": "piramal-healthcare",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/PiramalHealthcare.jpg",
+      "alt": "Piramal Healthcare, Zydus SEZ, Bavla, Ahmedabad — project image",
+      "local": "/media/projects/piramal-healthcare.webp",
+      "bytes": 18056,
+      "width": 504,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "planet-sks",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/SKSPlanet.png",
+      "alt": "Planet SKS, Mangalore — project image",
+      "local": "/media/projects/planet-sks.webp",
+      "bytes": 29116,
+      "width": 488,
+      "height": 552
+    },
+    {
+      "type": "project-image",
+      "project": "plant-7",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/Plant7.jpg",
+      "alt": "Plant 7, Ahmednagar — project image",
+      "local": "/media/projects/plant-7.webp",
+      "bytes": 20926,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "pragati-logistic-and-industrial-park",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/PragatiLogisticandIndustrialPark_1.png",
+      "alt": "Pragati Logistic and Industrial Park, Echur , Chennai — project image",
+      "local": "/media/projects/pragati-logistic-and-industrial-park.webp",
+      "bytes": 69480,
+      "width": 1580,
+      "height": 708
+    },
+    {
+      "type": "project-image",
+      "project": "pragati-maidan",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/PragatiMaidan.jpg",
+      "alt": "Pragati Maidan, New Delhi — project image",
+      "local": "/media/projects/pragati-maidan.webp",
+      "bytes": 55046,
+      "width": 430,
+      "height": 430
+    },
+    {
+      "type": "project-image",
+      "project": "pratham-bulet",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/PrathamBulet.jpg",
+      "alt": "Pratham Bulet, Vadodara, Gujarat — project image",
+      "local": "/media/projects/pratham-bulet.webp",
+      "bytes": 28484,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "prince-aga-khan",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/PrinceAgaKhan.png",
+      "alt": "Prince Aga Khan, Mazgaon — project image",
+      "local": "/media/projects/prince-aga-khan.webp",
+      "bytes": 456700,
+      "width": 2000,
+      "height": 3162
+    },
+    {
+      "type": "project-image",
+      "project": "pspf-commercial-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/PSPFCommercialBuilding.jpg",
+      "alt": "PSPF Commercial Building, Tanzania — project image",
+      "local": "/media/projects/pspf-commercial-building.webp",
+      "bytes": 53780,
+      "width": 504,
+      "height": 491
+    },
+    {
+      "type": "project-image",
+      "project": "r-and-d-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/R&DBuilding.jpg",
+      "alt": "R & D Building, Mumbai — project image",
+      "local": "/media/projects/r-and-d-building.webp",
+      "bytes": 14968,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "r-239-raheja-height",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/R239(RAHEJAHEIGHT).jpg",
+      "alt": "R 239 ( Raheja Height), Malad, Mumbai, IN — project image",
+      "local": "/media/projects/r-239-raheja-height.webp",
+      "bytes": 31674,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "radisson",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/RADDISON.jpg",
+      "alt": "Radisson, Andheri , Mumbai — project image",
+      "local": "/media/projects/radisson.webp",
+      "bytes": 38948,
+      "width": 506,
+      "height": 349
+    },
+    {
+      "type": "project-image",
+      "project": "radisson-blu",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/RADDISONBLU.jpg",
+      "alt": "Radisson Blu, Powai, Mumbai — project image",
+      "local": "/media/projects/radisson-blu.webp",
+      "bytes": 47778,
+      "width": 504,
+      "height": 751
+    },
+    {
+      "type": "project-image",
+      "project": "raheja-siena",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/RAHEJASIENA.png",
+      "alt": "Raheja Siena, Versova, Mumbai — project image",
+      "local": "/media/projects/raheja-siena.webp",
+      "bytes": 29700,
+      "width": 407,
+      "height": 502
+    },
+    {
+      "type": "project-image",
+      "project": "raheja-verona",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/RAHEJAVERONA.png",
+      "alt": "Raheja Verona, Versova, Mumbai — project image",
+      "local": "/media/projects/raheja-verona.webp",
+      "bytes": 26776,
+      "width": 417,
+      "height": 518
+    },
+    {
+      "type": "project-image",
+      "project": "raitech-park",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/AnantRajNeXtechTheSEZ.jpg",
+      "alt": "Raitech Park, Sonipat — project image",
+      "local": "/media/projects/raitech-park.webp",
+      "bytes": 28798,
+      "width": 578,
+      "height": 324
+    },
+    {
+      "type": "project-image",
+      "project": "ravindra-bhavan",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/RavindraBhavan.png",
+      "alt": "Ravindra Bhavan, Canacona, Goa, India — project image",
+      "local": "/media/projects/ravindra-bhavan.webp",
+      "bytes": 24290,
+      "width": 504,
+      "height": 239
+    },
+    {
+      "type": "project-image",
+      "project": "rc-b-045",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/RC-B-045.avif",
+      "alt": "RC-B-045, Dubai — project image",
+      "local": "/media/projects/rc-b-045.webp",
+      "bytes": 48266,
+      "width": 486,
+      "height": 284
+    },
+    {
+      "type": "project-image",
+      "project": "rd-jakaria-sale-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/RDJAKARIA-SALEBUILDING.png",
+      "alt": "RD Jakaria-sale Building, Malad, Mumbai — project image",
+      "local": "/media/projects/rd-jakaria-sale-building.webp",
+      "bytes": 37394,
+      "width": 406,
+      "height": 547
+    },
+    {
+      "type": "project-image",
+      "project": "redevelopment-of-gpra-netaji-nagar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/RedevelopmentofGPRANetajiNagar_1.webp",
+      "alt": "Redevelopment of GPRA Netaji Nagar, Netaji Nagar — project image",
+      "local": "/media/projects/redevelopment-of-gpra-netaji-nagar.webp",
+      "bytes": 13952,
+      "width": 256,
+      "height": 143
+    },
+    {
+      "type": "project-image",
+      "project": "redevelopment-of-gpra-sarojini-nagar",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/RedevelopmentOfGPRASarojiniNagar.jpg",
+      "alt": "Redevelopment Of GPRA Sarojini Nagar, Sarojini Nagar — project image",
+      "local": "/media/projects/redevelopment-of-gpra-sarojini-nagar.webp",
+      "bytes": 42712,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "reserve-bank-of-india",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/ReserveBankofIndia.jpg",
+      "alt": "Reserve Bank of India, Lucknow, India — project image",
+      "local": "/media/projects/reserve-bank-of-india.webp",
+      "bytes": 28532,
+      "width": 483,
+      "height": 423
+    },
+    {
+      "type": "project-image",
+      "project": "royal-pristo-sale-building",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/ROYALPRISTO-SALEBUILDING.png",
+      "alt": "Royal Pristo-sale Building, Malad, Mumbai — project image",
+      "local": "/media/projects/royal-pristo-sale-building.webp",
+      "bytes": 99344,
+      "width": 590,
+      "height": 552
+    },
+    {
+      "type": "project-image",
+      "project": "sagar-plaza",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/SAGARPLAZA.jpg",
+      "alt": "Sagar Plaza, Pune — project image",
+      "local": "/media/projects/sagar-plaza.webp",
+      "bytes": 29550,
+      "width": 500,
+      "height": 812
+    },
+    {
+      "type": "project-image",
+      "project": "samarpan",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/SAMARPAN.jpg",
+      "alt": "Samarpan, Kandivali, Mumbai — project image",
+      "local": "/media/projects/samarpan.webp",
+      "bytes": 29640,
+      "width": 567,
+      "height": 423
+    },
+    {
+      "type": "project-image",
+      "project": "sardardham-campus",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/SardardhamCampus.jpg",
+      "alt": "Sardardham Campus, Ahmedabad, India — project image",
+      "local": "/media/projects/sardardham-campus.webp",
+      "bytes": 27812,
+      "width": 370,
+      "height": 370
+    },
+    {
+      "type": "project-image",
+      "project": "satra-hills",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/SatraHills.avif",
+      "alt": "Satra Hills, Ghatkopar, Mumbai, IN — project image",
+      "local": "/media/projects/satra-hills.webp",
+      "bytes": 76422,
+      "width": 486,
+      "height": 397
+    },
+    {
+      "type": "project-image",
+      "project": "sbi-gift-city",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/SBIGiftCity.jpg",
+      "alt": "SBI Gift City, Gift City Gandhinagar, Gujarat — project image",
+      "local": "/media/projects/sbi-gift-city.webp",
+      "bytes": 66176,
+      "width": 504,
+      "height": 504
+    },
+    {
+      "type": "project-image",
+      "project": "seven-eleven-courtyard",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/SEVEN-ELEVEN-COURTYARD-HAFEEZCONTRACTOR-MIRA-ROAD.png",
+      "alt": "Seven-eleven-courtyard, Mira Road — project image",
+      "local": "/media/projects/seven-eleven-courtyard.webp",
+      "bytes": 54030,
+      "width": 406,
+      "height": 611
+    },
+    {
+      "type": "project-image",
+      "project": "shangrila-hotel-rotana-and-marvel",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/SHANGRILA,HOTELROTANA&MARVEL.jpg",
+      "alt": "Shangrila, Hotel Rotana & Marvel, Doha — project image",
+      "local": "/media/projects/shangrila-hotel-rotana-and-marvel.webp",
+      "bytes": 17414,
+      "width": 243,
+      "height": 295
+    },
+    {
+      "type": "project-image",
+      "project": "shaurya-smarak-war-memorial",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Publicprojects/ShauryaSmarak-Warmemorial.jpg",
+      "alt": "Shaurya Smarak - War memorial, Bhopal, India — project image",
+      "local": "/media/projects/shaurya-smarak-war-memorial.webp",
+      "bytes": 49418,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "shreeji-sharan-sky-rise",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/Skyrise.png",
+      "alt": "Shreeji Sharan Sky rise, Kandivali , Mumbai — project image",
+      "local": "/media/projects/shreeji-sharan-sky-rise.webp",
+      "bytes": 26724,
+      "width": 484,
+      "height": 571
+    },
+    {
+      "type": "project-image",
+      "project": "shubham-amrutwadi",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/Shubham(Amrutwadi).png",
+      "alt": "Shubham ( Amrutwadi), Girgaon Mumbai — project image",
+      "local": "/media/projects/shubham-amrutwadi.webp",
+      "bytes": 31556,
+      "width": 315,
+      "height": 583
+    },
+    {
+      "type": "project-image",
+      "project": "siddharth-mcgm-hospital",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/SIDDHARTHMCGMHOSPITAL_1.jpeg",
+      "alt": "Siddharth MCGM Hospital, Goregaon — project image",
+      "local": "/media/projects/siddharth-mcgm-hospital.webp",
+      "bytes": 38350,
+      "width": 706,
+      "height": 450
+    },
+    {
+      "type": "project-image",
+      "project": "sikkim-resort",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/SIKKIMRESORT.jpg",
+      "alt": "Sikkim Resort, Sikkim — project image",
+      "local": "/media/projects/sikkim-resort.webp",
+      "bytes": 18038,
+      "width": 502,
+      "height": 346
+    },
+    {
+      "type": "project-image",
+      "project": "super-specialty-grand-port-hospital-medical-campus-phase-i-ii-and-iii",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Dnbprojects/SuperSpecialtyGrandPortHospitalMedicalCampus-PhaseI,II&III..jpg",
+      "alt": "Super Specialty Grand Port Hospital Medical Campus-Phase I, II & III, Wadala, Mumbai — project image",
+      "local": "/media/projects/super-specialty-grand-port-hospital-medical-campus-phase-i-ii-and-iii.webp",
+      "bytes": 25678,
+      "width": 477,
+      "height": 477
+    },
+    {
+      "type": "project-image",
+      "project": "suyojit-villas",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/SuyojitVillas.png",
+      "alt": "Suyojit Villas, Nashik — project image",
+      "local": "/media/projects/suyojit-villas.webp",
+      "bytes": 100882,
+      "width": 686,
+      "height": 560
+    },
+    {
+      "type": "project-image",
+      "project": "swosti-hotel",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/SwostiHotel.png",
+      "alt": "Swosti Hotel, Puri — project image",
+      "local": "/media/projects/swosti-hotel.webp",
+      "bytes": 29648,
+      "width": 548,
+      "height": 562
+    },
+    {
+      "type": "project-image",
+      "project": "taj-hotel",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/TajHotel.png",
+      "alt": "Taj Hotel, Puri , Odisha — project image",
+      "local": "/media/projects/taj-hotel.webp",
+      "bytes": 42732,
+      "width": 548,
+      "height": 549
+    },
+    {
+      "type": "project-image",
+      "project": "tata-memorial-hospital",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/TATAMemorialHospital.png",
+      "alt": "TATA Memorial Hospital, Bhubaneswar — project image",
+      "local": "/media/projects/tata-memorial-hospital.webp",
+      "bytes": 39900,
+      "width": 504,
+      "height": 365
+    },
+    {
+      "type": "project-image",
+      "project": "the-waves",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/THEWAVES.jpg",
+      "alt": "The Waves, Trivandrum — project image",
+      "local": "/media/projects/the-waves.webp",
+      "bytes": 58486,
+      "width": 502,
+      "height": 603
+    },
+    {
+      "type": "project-image",
+      "project": "tivona-city",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/TivonaCity.png",
+      "alt": "Tivona City, Udaipur — project image",
+      "local": "/media/projects/tivona-city.webp",
+      "bytes": 123430,
+      "width": 917,
+      "height": 460
+    },
+    {
+      "type": "project-image",
+      "project": "transit-hospital",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hospitals/TRANSITHOSPITAL.png",
+      "alt": "Transit Hospital, Mazgaon, Mumbai — project image",
+      "local": "/media/projects/transit-hospital.webp",
+      "bytes": 19620,
+      "width": 504,
+      "height": 397
+    },
+    {
+      "type": "project-image",
+      "project": "uc-jain-gap-goa",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/UCJAIN-GAP-GOA.png",
+      "alt": "UC Jain-gap-goa, Goa — project image",
+      "local": "/media/projects/uc-jain-gap-goa.webp",
+      "bytes": 70458,
+      "width": 1173,
+      "height": 423
+    },
+    {
+      "type": "project-image",
+      "project": "upaca-academy",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Institutional/upacaacademy.avif",
+      "alt": "UPACA Academy, Mt. Abu, Rajasthan, India — project image",
+      "local": "/media/projects/upaca-academy.webp",
+      "bytes": 13946,
+      "width": 622,
+      "height": 264
+    },
+    {
+      "type": "project-image",
+      "project": "warehouse-roha",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Industrial/WarehouseRoha.jpg",
+      "alt": "Warehouse Roha, Roha, Maharashtra — project image",
+      "local": "/media/projects/warehouse-roha.webp",
+      "bytes": 17822,
+      "width": 504,
+      "height": 286
+    },
+    {
+      "type": "project-image",
+      "project": "westline-signature",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/TallStructures/WestlineSignature.png",
+      "alt": "Westline Signature, Karnataka — project image",
+      "local": "/media/projects/westline-signature.webp",
+      "bytes": 294190,
+      "width": 2000,
+      "height": 3169
+    },
+    {
+      "type": "project-image",
+      "project": "world-trade-centre",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Commercial/WorldTradeCentre.jpg",
+      "alt": "World Trade Centre, New Delhi, India — project image",
+      "local": "/media/projects/world-trade-centre.webp",
+      "bytes": 38826,
+      "width": 576,
+      "height": 268
+    },
+    {
+      "type": "project-image",
+      "project": "yamuna-skycity",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Resident/YamunaSkyCity.png",
+      "alt": "Yamuna SkyCity, Mangalore — project image",
+      "local": "/media/projects/yamuna-skycity.webp",
+      "bytes": 42624,
+      "width": 501,
+      "height": 580
+    },
+    {
+      "type": "project-image",
+      "project": "ymca",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Hotel/YMCA.jpg",
+      "alt": "YMCA, Ahmedabad — project image",
+      "local": "/media/projects/ymca.webp",
+      "bytes": 14462,
+      "width": 506,
+      "height": 567
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/adani.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fadani.png&w=…",
+      "local": "/media/clients/adani.png",
+      "bytes": 4026,
+      "width": 288,
+      "height": 175
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/akdn.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fakdn.png&w=…",
+      "local": "/media/clients/akdn.png",
+      "bytes": 27518,
+      "width": 193,
+      "height": 212
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/allcargo.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fallcargo.png&w=…",
+      "local": "/media/clients/allcargo.png",
+      "bytes": 7647,
+      "width": 306,
+      "height": 165
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/anantraj.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fanantraj.png&w=…",
+      "local": "/media/clients/anantraj.png",
+      "bytes": 14188,
+      "width": 247,
+      "height": 169
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/anni.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fanni.png&w=…",
+      "local": "/media/clients/anni.png",
+      "bytes": 27136,
+      "width": 268,
+      "height": 152
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/arki.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Farki.png&w=…",
+      "local": "/media/clients/arki.png",
+      "bytes": 9763,
+      "width": 205,
+      "height": 158
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/arihant.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Farihant.png&w=…",
+      "local": "/media/clients/arihant.png",
+      "bytes": 16339,
+      "width": 303,
+      "height": 183
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/bsafal.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fbsafal.png&w=…",
+      "local": "/media/clients/bsafal.png",
+      "bytes": 8411,
+      "width": 300,
+      "height": 104
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/collage.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fcollage.png&w=…",
+      "local": "/media/clients/collage.png",
+      "bytes": 8466,
+      "width": 492,
+      "height": 133
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/dmart.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fdmart.png&w=…",
+      "local": "/media/clients/dmart.png",
+      "bytes": 7664,
+      "width": 456,
+      "height": 110
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/bmc.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fbmc.png&w=…",
+      "local": "/media/clients/bmc.png",
+      "bytes": 47638,
+      "width": 175,
+      "height": 160
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/dosti.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fdosti.png&w=…",
+      "local": "/media/clients/dosti.png",
+      "bytes": 12069,
+      "width": 249,
+      "height": 108
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/ever.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fever.png&w=…",
+      "local": "/media/clients/ever.png",
+      "bytes": 34142,
+      "width": 196,
+      "height": 98
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/hsa.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fhsa.png&w=…",
+      "local": "/media/clients/hsa.png",
+      "bytes": 8795,
+      "width": 311,
+      "height": 168
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/hiranandani.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fhiranandani.png&w=…",
+      "local": "/media/clients/hiranandani.png",
+      "bytes": 26123,
+      "width": 250,
+      "height": 211
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/gsidc.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fgsidc.png&w=…",
+      "local": "/media/clients/gsidc.png",
+      "bytes": 35574,
+      "width": 319,
+      "height": 158
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/gammon.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fgammon.png&w=…",
+      "local": "/media/clients/gammon.png",
+      "bytes": 16505,
+      "width": 212,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/lnt.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Flnt.png&w=…",
+      "local": "/media/clients/lnt.png",
+      "bytes": 4571,
+      "width": 148,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/kankaia.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fkankaia.png&w=…",
+      "local": "/media/clients/kankaia.png",
+      "bytes": 25321,
+      "width": 275,
+      "height": 183
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/rr.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Frr.png&w=…",
+      "local": "/media/clients/rr.png",
+      "bytes": 35721,
+      "width": 322,
+      "height": 116
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/nayarai.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnayarai.png&w=…",
+      "local": "/media/clients/nayarai.png",
+      "bytes": 55932,
+      "width": 217,
+      "height": 267
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/mcd.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fmcd.png&w=…",
+      "local": "/media/clients/mcd.png",
+      "bytes": 3939,
+      "width": 185,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/nbcc.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnbcc.png&w=…",
+      "local": "/media/clients/nbcc.png",
+      "bytes": 38506,
+      "width": 224,
+      "height": 128
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/mhada.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fmhada.png&w=…",
+      "local": "/media/clients/mhada.png",
+      "bytes": 43895,
+      "width": 270,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/ncc.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fncc.png&w=…",
+      "local": "/media/clients/ncc.png",
+      "bytes": 19629,
+      "width": 148,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/nirmauni.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnirmauni.png&w=…",
+      "local": "/media/clients/nirmauni.png",
+      "bytes": 19003,
+      "width": 236,
+      "height": 98
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/norcon.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnorcon.png&w=…",
+      "local": "/media/clients/norcon.png",
+      "bytes": 37660,
+      "width": 215,
+      "height": 206
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/nmm.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnmm.png&w=…",
+      "local": "/media/clients/nmm.png",
+      "bytes": 12442,
+      "width": 249,
+      "height": 75
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/pma.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fpma.png&w=…",
+      "local": "/media/clients/pma.png",
+      "bytes": 8506,
+      "width": 349,
+      "height": 126
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/pgp.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fpgp.png&w=…",
+      "local": "/media/clients/pgp.png",
+      "bytes": 13859,
+      "width": 246,
+      "height": 240
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/nirma.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fnirma.png&w=…",
+      "local": "/media/clients/nirma.png",
+      "bytes": 7781,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/pcpl.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fpcpl.png&w=…",
+      "local": "/media/clients/pcpl.png",
+      "bytes": 11790,
+      "width": 423,
+      "height": 203
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/rbi.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Frbi.png&w=…",
+      "local": "/media/clients/rbi.png",
+      "bytes": 22902,
+      "width": 254,
+      "height": 78
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/rahejauni.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Frahejauni.png&w=…",
+      "local": "/media/clients/rahejauni.png",
+      "bytes": 10762,
+      "width": 325,
+      "height": 115
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/raheja.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fraheja.png&w=…",
+      "local": "/media/clients/raheja.png",
+      "bytes": 7314,
+      "width": 262,
+      "height": 157
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/shapoorji.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fshapoorji.png&w=…",
+      "local": "/media/clients/shapoorji.png",
+      "bytes": 7385,
+      "width": 264,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/shreeji.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fshreeji.png&w=…",
+      "local": "/media/clients/shreeji.png",
+      "bytes": 20040,
+      "width": 356,
+      "height": 77
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/saifeez.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fsaifeez.png&w=…",
+      "local": "/media/clients/saifeez.png",
+      "bytes": 20762,
+      "width": 387,
+      "height": 150
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/sg.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fsg.png&w=…",
+      "local": "/media/clients/sg.png",
+      "bytes": 59208,
+      "width": 248,
+      "height": 214
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/svkm.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fsvkm.png&w=…",
+      "local": "/media/clients/svkm.png",
+      "bytes": 29996,
+      "width": 243,
+      "height": 230
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/sun.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fsun.png&w=…",
+      "local": "/media/clients/sun.png",
+      "bytes": 5416,
+      "width": 148,
+      "height": 148
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/stw.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fstw.png&w=…",
+      "local": "/media/clients/stw.png",
+      "bytes": 4445,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/vba.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fvba.png&w=…",
+      "local": "/media/clients/vba.png",
+      "bytes": 6316,
+      "width": 338,
+      "height": 123
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/swosti.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fswosti.png&w=…",
+      "local": "/media/clients/swosti.png",
+      "bytes": 27108,
+      "width": 194,
+      "height": 212
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/walmart.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fwalmart.png&w=…",
+      "local": "/media/clients/walmart.png",
+      "bytes": 6433,
+      "width": 420,
+      "height": 120
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/abu.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fabu.png&w=…",
+      "local": "/media/clients/international/abu.png",
+      "bytes": 12881,
+      "width": 266,
+      "height": 128
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/alzarooni.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Falzarooni.png&w=…",
+      "local": "/media/clients/international/alzarooni.png",
+      "bytes": 5187,
+      "width": 184,
+      "height": 83
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/damac.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fdamac.png&w=…",
+      "local": "/media/clients/international/damac.png",
+      "bytes": 7757,
+      "width": 234,
+      "height": 40
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/westline.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Fwestline.png&w=…",
+      "local": "/media/clients/westline.png",
+      "bytes": 13029,
+      "width": 281,
+      "height": 156
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/artic.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fartic.png&w=…",
+      "local": "/media/clients/international/artic.png",
+      "bytes": 72468,
+      "width": 440,
+      "height": 131
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/dub.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fdub.png&w=…",
+      "local": "/media/clients/international/dub.png",
+      "bytes": 16621,
+      "width": 501,
+      "height": 83
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/hos.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fhos.png&w=…",
+      "local": "/media/clients/international/hos.png",
+      "bytes": 11717,
+      "width": 391,
+      "height": 99
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/map.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fmap.png&w=…",
+      "local": "/media/clients/international/map.png",
+      "bytes": 5327,
+      "width": 354,
+      "height": 84
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/emaar.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Femaar.png&w=…",
+      "local": "/media/clients/international/emaar.png",
+      "bytes": 6966,
+      "width": 319,
+      "height": 65
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/tata.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Ftata.png&w=…",
+      "local": "/media/clients/tata.png",
+      "bytes": 3808,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/pspf.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fpspf.png&w=…",
+      "local": "/media/clients/international/pspf.png",
+      "bytes": 37965,
+      "width": 261,
+      "height": 206
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/shan.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fshan.png&w=…",
+      "local": "/media/clients/international/shan.png",
+      "bytes": 6529,
+      "width": 293,
+      "height": 60
+    },
+    {
+      "type": "client-logo",
+      "original": "https://www.sacpl.co/Clients/international/mnf.png",
+      "optimizerUrlSeen": "https://www.sacpl.co/_next/image?url=%2FClients%2Finternational%2Fmnf.png&w=…",
+      "local": "/media/clients/international/mnf.png",
+      "bytes": 35818,
+      "width": 304,
+      "height": 103
+    },
+    {
+      "type": "article-image",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/blogs-images/1755081560555-5vxj77f3e.jpg",
+      "local": "/media/insights/yamuna-skycity.webp",
+      "bytes": 24490,
+      "width": 640,
+      "height": 306
+    },
+    {
+      "type": "article-image",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/blogs-images/1754552103093-jhe7lol7w.png",
+      "local": "/media/insights/sardardham-campus.webp",
+      "bytes": 153536,
+      "width": 1260,
+      "height": 722
+    },
+    {
+      "type": "article-image",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/blogs-images/1755081475580-xn38hr2fc.jfif",
+      "local": "/media/insights/world-trade-centre.webp",
+      "bytes": 171216,
+      "width": 1533,
+      "height": 905
+    },
+    {
+      "type": "article-image",
+      "original": "https://www.sacpl.co/wtc.png",
+      "local": "/media/insights/world-trade-centre-listing.webp",
+      "bytes": 22960,
+      "width": 438,
+      "height": 249
+    },
+    {
+      "type": "video",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/videos/abvid.mp4",
+      "local": "/media/video/sacpl-film-720p.mp4",
+      "bytes": 14963405
+    },
+    {
+      "type": "video-poster",
+      "original": "frame extracted at 00:40 from abvid.mp4",
+      "local": "/media/video/sacpl-film-poster.webp",
+      "bytes": 57486,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "document",
+      "original": "https://www.sacpl.co/_files/ugd/865611_b627109b18b1412690e3881dd0bff5db.pdf (404 on sacpl.co; retrieved from static.wixstatic.com/ugd/…)",
+      "note": "This is the GST registration certificate (Form GST REG-06), not a company profile.",
+      "local": "/documents/sacpl-gst-registration-certificate.pdf",
+      "bytes": 101766
+    },
+    {
+      "type": "recognition",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/LIMCAWorldRecords.jpeg",
+      "alt": "Limca Book of Records World Record certificate",
+      "local": "/media/recognition/limca-world-records.webp",
+      "bytes": 166902,
+      "width": 1150,
+      "height": 1600
+    },
+    {
+      "type": "recognition",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/LIMCANationalRecords.jpeg",
+      "alt": "Limca Book of Records National Record certificate",
+      "local": "/media/recognition/limca-national-records.webp",
+      "bytes": 299906,
+      "width": 1800,
+      "height": 2568
+    },
+    {
+      "type": "recognition",
+      "original": "https://utxayeuuvbonhibcgajy.supabase.co/storage/v1/object/public/project-images/Other/ETNOWCONCLAVEAWARD2026_1.jpeg",
+      "alt": "ET Now Realty Conclave & Awards 2026 trophy",
+      "local": "/media/recognition/et-now-real-estate-award.webp",
+      "bytes": 114716,
+      "width": 906,
+      "height": 1280
+    }
+  ]
+}

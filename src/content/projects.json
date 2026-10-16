@@ -1,0 +1,2923 @@
+[
+  {
+    "slug": "39th-national-games",
+    "sourceId": "1cf87e25-0d52-46de-8b8c-af87a98df768",
+    "name": "39th National Games",
+    "category": "sports",
+    "location": "SHILLONG",
+    "country": "India",
+    "international": false,
+    "architect": "Collage Design Pvt. Ltd",
+    "images": [
+      {
+        "src": "/media/projects/39th-national-games.webp",
+        "alt": "39th National Games, SHILLONG — project image"
+      }
+    ]
+  },
+  {
+    "slug": "acme-oasis",
+    "sourceId": "e9ea2eb9-b7ca-4254-8e73-0e848838178c",
+    "name": "Acme Oasis",
+    "category": "residential",
+    "location": "Kandivali, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Acme Group",
+    "architect": "Neo Modern Architect Pvt Ltd",
+    "height": "126 m, Stilt+3P+36F+1 Fire check floor+T",
+    "images": [
+      {
+        "src": "/media/projects/acme-oasis.webp",
+        "alt": "Acme Oasis, Kandivali, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "admin-building",
+    "sourceId": "af6d95e5-606b-4b72-aa02-9da825e95486",
+    "name": "Admin Building",
+    "category": "industrial",
+    "location": "Panoli, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "Actgen Pharma Pvt Ltd",
+    "architect": "Madhoop Kumar",
+    "images": [
+      {
+        "src": "/media/projects/admin-building.webp",
+        "alt": "Admin Building, Panoli, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "aleenta-sale-and-rehab-bldg",
+    "sourceId": "929c3926-57dd-403b-80d0-c48d73bbee07",
+    "name": "Aleenta Sale & Rehab Bldg",
+    "category": "residential",
+    "location": "Vashi, New Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "M/s Arihant Estate",
+    "architect": "STAPL",
+    "area": "8.64 Lacs sq.ft",
+    "height": "120m",
+    "images": [
+      {
+        "src": "/media/projects/aleenta-sale-and-rehab-bldg.webp",
+        "alt": "Aleenta Sale & Rehab Bldg, Vashi, New Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "anarkali-hotel",
+    "sourceId": "f7089924-b844-43a8-ab64-8282fe43a7f7",
+    "name": "Anarkali Hotel",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Mahabaleshwar",
+    "country": "India",
+    "international": false,
+    "client": "Anarkali",
+    "architect": "Shailendra Associates",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "140"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/anarkali-hotel.webp",
+        "alt": "Anarkali Hotel, Mahabaleshwar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "anna-nagar",
+    "sourceId": "7ffd989e-58fb-44c6-95be-0e199424ac92",
+    "name": "Anna Nagar",
+    "category": "design-and-bid",
+    "bidOutcome": "lost",
+    "location": "Chennai",
+    "country": "India",
+    "international": false,
+    "area": "9,01,829 Sqft",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "270 Crore"
+      }
+    ],
+    "summary": "Residential buildings: Type II – S+18 (2 towers); Type III – S+18 (2 towers); Type IV – G+18 (2 towers).",
+    "images": [
+      {
+        "src": "/media/projects/anna-nagar.webp",
+        "alt": "Anna Nagar, Chennai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "arihant-aspire",
+    "sourceId": "6c88e621-609e-4dc7-bbfc-7e0f35986134",
+    "name": "Arihant Aspire",
+    "category": "tall-structures",
+    "location": "Panvel, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Arihant Abode Pvt. Ltd",
+    "architect": "A cube Arch",
+    "area": "50 Lakh Sq.Ft",
+    "height": "3B+G+42",
+    "images": [
+      {
+        "src": "/media/projects/arihant-aspire.webp",
+        "alt": "Arihant Aspire, Panvel, Mumbai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "aristo-saphire",
+    "sourceId": "b1606df2-fc9d-4b40-a21c-79fc4731f32e",
+    "name": "Aristo Saphire",
+    "category": "residential",
+    "location": "Santa Cruz, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "ARISTO SAPHIRE",
+    "architect": "Vivek Bhole Architects",
+    "height": "2B+G+16",
+    "images": [
+      {
+        "src": "/media/projects/aristo-saphire.webp",
+        "alt": "Aristo Saphire, Santa Cruz, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "asian-heart-hospital",
+    "sourceId": "437ea405-83e0-4d7e-a6e8-0e0cba3bf232",
+    "name": "Asian Heart Hospital",
+    "category": "healthcare",
+    "location": "BKC , MUMBAI",
+    "country": "India",
+    "international": false,
+    "client": "M/S Asian Heart Institution",
+    "architect": "Atul desai and associates",
+    "area": "4,00,000 sq ft",
+    "specs": [
+      {
+        "label": "No. of Beds",
+        "value": "250"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/asian-heart-hospital.webp",
+        "alt": "Asian Heart Hospital, BKC , MUMBAI — project image"
+      }
+    ]
+  },
+  {
+    "slug": "b-safal-privilon",
+    "sourceId": "60429393-f284-4bfe-8715-4e3e216f0e49",
+    "name": "B Safal Privilon",
+    "category": "commercial",
+    "location": "Ahmedabad",
+    "country": "India",
+    "international": false,
+    "client": "B Safal",
+    "architect": "Ar. Vitan",
+    "area": "9 lac sft",
+    "height": "21 Storey",
+    "images": [
+      {
+        "src": "/media/projects/b-safal-privilon.webp",
+        "alt": "B Safal Privilon, Ahmedabad — project image"
+      }
+    ]
+  },
+  {
+    "slug": "bandra-educational-international-school",
+    "sourceId": "8fc32f9f-3e9a-48a9-ae24-eaf4972dd7e6",
+    "name": "Bandra Educational International School",
+    "category": "institutional",
+    "location": "Bandra, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Universal School",
+    "architect": "Samir Kulkarni",
+    "area": "1.85 Lacs sq.ft",
+    "height": "70 m",
+    "images": [
+      {
+        "src": "/media/projects/bandra-educational-international-school.webp",
+        "alt": "Bandra Educational International School, Bandra, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "bdd-chawl-redevelopment",
+    "sourceId": "fdde1014-c0f9-431f-bb55-192af50d26f7",
+    "name": "BDD CHAWL Redevelopment",
+    "category": "residential",
+    "location": "Naigaon , Worli - Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "MHADA , L & T , TATA - CIL",
+    "area": "14 million sq ft",
+    "height": "320m",
+    "images": [
+      {
+        "src": "/media/projects/bdd-chawl-redevelopment.webp",
+        "alt": "BDD CHAWL Redevelopment, Naigaon , Worli - Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "bhandary-vertica",
+    "sourceId": "72040493-7d56-4f45-a49d-61a7cda51071",
+    "name": "Bhandary Vertica",
+    "category": "tall-structures",
+    "location": "Karnataka, Mangalore",
+    "country": "India",
+    "international": false,
+    "client": "Bhandary Builders",
+    "architect": "Gokuul Raj Associates",
+    "area": "3 Lakh Sq.Ft",
+    "height": "60 Storey",
+    "images": [
+      {
+        "src": "/media/projects/bhandary-vertica.webp",
+        "alt": "Bhandary Vertica, Karnataka, Mangalore — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "bhoomi-celestia",
+    "sourceId": "564b4bff-6cc9-47cc-a3e4-adfc91de0e33",
+    "name": "Bhoomi Celestia",
+    "category": "residential",
+    "location": "Malad(W), Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Bhoomi Group",
+    "architect": "Neo Modern Architect Pvt Ltd",
+    "height": "153 m, G+6 P+34 F+1 Fire check floor +T",
+    "images": [
+      {
+        "src": "/media/projects/bhoomi-celestia.webp",
+        "alt": "Bhoomi Celestia, Malad(W), Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "boulevard-heights",
+    "sourceId": "cb230715-c90a-4703-8160-91905a8c2e60",
+    "name": "Boulevard Heights",
+    "category": "tall-structures",
+    "location": "Downtown, Dubai",
+    "country": "United Arab Emirates",
+    "international": true,
+    "client": "Emaar Properties",
+    "architect": "Perkins & Will",
+    "area": "8.70 Lakh Sq.Ft",
+    "height": "53 Storey",
+    "images": [
+      {
+        "src": "/media/projects/boulevard-heights.webp",
+        "alt": "Boulevard Heights, Downtown, Dubai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "brookhill",
+    "sourceId": "5733174f-fb77-4334-96cc-10fe8a0a7b82",
+    "name": "Brookhill",
+    "category": "residential",
+    "location": "Thane, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Hiranandani Developers",
+    "architect": "Design Centre",
+    "area": "3.95 Lakh Sq.Ft",
+    "height": "G+2P+27",
+    "images": [
+      {
+        "src": "/media/projects/brookhill.webp",
+        "alt": "Brookhill, Thane, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "bulk-drug-plant",
+    "sourceId": "38eda365-07a6-4ae3-891f-2beee8743a06",
+    "name": "Bulk Drug Plant",
+    "category": "industrial",
+    "location": "Ambernath, Maharashtra",
+    "country": "India",
+    "international": false,
+    "client": "Polypeptide Laboratories",
+    "inHouseArchitecture": true,
+    "images": [
+      {
+        "src": "/media/projects/bulk-drug-plant.webp",
+        "alt": "Bulk Drug Plant, Ambernath, Maharashtra — project image"
+      }
+    ]
+  },
+  {
+    "slug": "cambridge-school",
+    "sourceId": "9cd7dda0-4195-4a4a-b00d-01507daa7237",
+    "name": "Cambridge School",
+    "category": "institutional",
+    "location": "Kandivali, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Mehta Foundation",
+    "architect": "Nitin Shah",
+    "images": [
+      {
+        "src": "/media/projects/cambridge-school.webp",
+        "alt": "Cambridge School, Kandivali, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "cancer-care-centre-shantilal-shanghvi",
+    "sourceId": "cde8b37e-d286-4584-85ac-41e22b8860a2",
+    "name": "Cancer Care Centre : Shantilal Shanghvi",
+    "category": "healthcare",
+    "location": "Wadala, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Shantilal Shanghvi Foundation",
+    "architect": "Architect Hafeez Contractor",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "250 Crores"
+      },
+      {
+        "label": "No. of Beds",
+        "value": "375"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/cancer-care-centre-shantilal-shanghvi.webp",
+        "alt": "Cancer Care Centre : Shantilal Shanghvi, Wadala, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "capital-complex-raipur",
+    "sourceId": "87dec318-c951-4344-8668-4f86b781c2b6",
+    "name": "Capital Complex Raipur",
+    "category": "institutional",
+    "location": "Raipur, India",
+    "country": "India",
+    "international": false,
+    "client": "Naya Raipur Development Authority",
+    "architect": "UCJ Architects And Environment",
+    "area": "14 Lakh Sq.Ft",
+    "height": "6 Storey",
+    "summaryTruncatedInSource": true,
+    "images": [
+      {
+        "src": "/media/projects/capital-complex-raipur.webp",
+        "alt": "Capital Complex Raipur, Raipur, India — project image"
+      }
+    ],
+    "summary": "The capital complex for the state of Chhattisgarh. Its distinctive design feature is a screen wall that forms part of the elevation."
+  },
+  {
+    "slug": "cdpl-bhopal-stadium",
+    "sourceId": "8216930f-f99f-4730-bbce-6ed170db4de5",
+    "name": "Cdpl-bhopal-stadium",
+    "category": "sports",
+    "location": "Bhopal",
+    "country": "India",
+    "international": false,
+    "client": "Madhya Pradesh Road Development Corporation (MPRDC)",
+    "architect": "COLLAGE DESIGN",
+    "images": [
+      {
+        "src": "/media/projects/cdpl-bhopal-stadium.webp",
+        "alt": "Cdpl-bhopal-stadium, Bhopal — project image"
+      }
+    ]
+  },
+  {
+    "slug": "centrio-nx-by-mj-shah",
+    "sourceId": "479c74e9-49f2-4e60-b688-de5fd9087296",
+    "name": "Centrio NX By MJ SHAH",
+    "category": "residential",
+    "location": "Govandi, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "M.J Shah Group of companies",
+    "architect": "North Construction",
+    "area": "4.93 Lacs sq.ft",
+    "height": "103.60",
+    "images": [
+      {
+        "src": "/media/projects/centrio-nx-by-mj-shah.webp",
+        "alt": "Centrio NX By MJ SHAH, Govandi, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "challenger-tower",
+    "sourceId": "d45b5348-9296-4079-92a7-6d182f832aa6",
+    "name": "Challenger Tower",
+    "category": "residential",
+    "location": "Kandivali, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Realty Pvt Ltd",
+    "architect": "G.D. Sambhre",
+    "height": "G+27",
+    "images": [
+      {
+        "src": "/media/projects/challenger-tower.webp",
+        "alt": "Challenger Tower, Kandivali, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "cine-wonder-mall",
+    "sourceId": "5d9cf8a1-09a2-4183-bcd0-b1b983eccc40",
+    "name": "Cine wonder Mall",
+    "category": "retail",
+    "location": "Thane",
+    "country": "India",
+    "international": false,
+    "client": "Hemen Vora Architect",
+    "architect": "HEMEN VORA ARCHITECTS",
+    "images": [
+      {
+        "src": "/media/projects/cine-wonder-mall.webp",
+        "alt": "Cine wonder Mall, Thane — project image"
+      }
+    ]
+  },
+  {
+    "slug": "coimbatore-mall",
+    "sourceId": "078293c2-966f-46af-8d41-82cb5fef003d",
+    "name": "Coimbatore Mall",
+    "category": "retail",
+    "location": "Coimbatore",
+    "country": "India",
+    "international": false,
+    "images": [
+      {
+        "src": "/media/projects/coimbatore-mall.webp",
+        "alt": "Coimbatore Mall, Coimbatore — project image"
+      }
+    ]
+  },
+  {
+    "slug": "constillation",
+    "sourceId": "7d69c9ca-fba0-44da-95f8-9014abf0adb0",
+    "name": "Constillation",
+    "category": "residential",
+    "location": "Khar, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Wadhwa Holdings",
+    "architect": "Reza Kabul",
+    "area": "3 Lakh Sq.Ft",
+    "height": "G+3P+24",
+    "images": [
+      {
+        "src": "/media/projects/constillation.webp",
+        "alt": "Constillation, Khar, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "construction-of-2000-units-social-housing",
+    "sourceId": "6fb4c27e-c5db-440e-88a4-63958c4817c0",
+    "name": "Construction of 2000 Units Social Housing",
+    "category": "design-and-bid",
+    "bidOutcome": "won",
+    "location": "Hulhumale, Republic of Maldives",
+    "country": "Maldives",
+    "international": true,
+    "area": "22,88,000 Sq.ft",
+    "summary": "High-rise residential development of 15 towers of 2BHK and 3BHK units.",
+    "images": [
+      {
+        "src": "/media/projects/construction-of-2000-units-social-housing.webp",
+        "alt": "Construction of 2000 Units Social Housing, Hulhumale, Republic of Maldives — project image"
+      }
+    ]
+  },
+  {
+    "slug": "convention-centre",
+    "sourceId": "587a91f6-648a-41bd-a03f-c8eacaa68780",
+    "name": "Convention Centre",
+    "category": "institutional",
+    "location": "Khajuraho, India",
+    "country": "India",
+    "international": false,
+    "client": "MP tourism",
+    "architect": "Finer Edge Architects",
+    "area": "75,000 Sq.Ft",
+    "height": "2B+ 14",
+    "images": [
+      {
+        "src": "/media/projects/convention-centre.webp",
+        "alt": "Convention Centre, Khajuraho, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "decathlon-warehouse",
+    "sourceId": "5002d06c-9d32-4333-9235-65597975c462",
+    "name": "Decathlon - Warehouse",
+    "category": "industrial",
+    "location": "Mallur, Tamil Nadu",
+    "country": "India",
+    "international": false,
+    "client": "Conserve Buildcon LLP",
+    "images": [
+      {
+        "src": "/media/projects/decathlon-warehouse.webp",
+        "alt": "Decathlon - Warehouse, Mallur, Tamil Nadu — project image"
+      }
+    ]
+  },
+  {
+    "slug": "doha-city-center",
+    "sourceId": "9b403c47-c94a-4954-a782-56cef4750b4e",
+    "name": "Doha City Center",
+    "category": "tall-structures",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "international": true,
+    "client": "Al Rayyan Tourism Investment Company",
+    "architect": "HOK, Canada",
+    "area": "24 Lakh Sq.Ft",
+    "height": "3B + 7P + 43",
+    "summary": "Design partner credit: Optimal Design Pvt. Ltd., New Delhi.",
+    "images": [
+      {
+        "src": "/media/projects/doha-city-center.webp",
+        "alt": "Doha City Center, Dubai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "dr-y-s-parmar-medical-college",
+    "sourceId": "6e6f2955-1f6b-4a96-bf7d-2ef4843bdf46",
+    "name": "DR. Y.S. Parmar Medical College",
+    "category": "healthcare",
+    "location": "Dist Sirmaur, Nahan, Himachal Pradesh",
+    "country": "India",
+    "international": false,
+    "client": "CPWD (Himachal Pradesh)",
+    "architect": "DDF CONSULTANT PVT. LTD",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "225 Crores"
+      },
+      {
+        "label": "No. of Beds",
+        "value": "300"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/dr-y-s-parmar-medical-college.webp",
+        "alt": "DR. Y.S. Parmar Medical College, Dist Sirmaur, Nahan, Himachal Pradesh — project image"
+      }
+    ]
+  },
+  {
+    "slug": "dwarkesh-fragrance",
+    "sourceId": "49c47173-f5ac-443d-a858-5b16c84a3fc4",
+    "name": "Dwarkesh Fragrance",
+    "category": "residential",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "Dwarkesh Group",
+    "architect": "AAA",
+    "area": "9 Lakh Sq.Ft",
+    "height": "2B+14",
+    "images": [
+      {
+        "src": "/media/projects/dwarkesh-fragrance.webp",
+        "alt": "Dwarkesh Fragrance, Ahmedabad, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "educational-international-school",
+    "sourceId": "bdc3cbd9-6408-4727-bf13-5bdb048205c8",
+    "name": "Educational International School",
+    "category": "institutional",
+    "location": "Andheri, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Universal School",
+    "architect": "H.M. Jhaveri",
+    "area": "1.65 Lacs sq.ft",
+    "height": "70 m",
+    "images": [
+      {
+        "src": "/media/projects/educational-international-school.webp",
+        "alt": "Educational International School, Andheri, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "evershine-i-wing",
+    "sourceId": "5f8cda30-7969-4f4a-8fcb-3c0440ab4695",
+    "name": "Evershine I Wing",
+    "category": "residential",
+    "location": "Virar, Palghar",
+    "country": "India",
+    "international": false,
+    "client": "Evershine Builders",
+    "architect": "KPA Architect",
+    "area": "16.00 Lacs sq.ft",
+    "height": "50m",
+    "images": [
+      {
+        "src": "/media/projects/evershine-i-wing.webp",
+        "alt": "Evershine I Wing, Virar, Palghar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "evershine-mall",
+    "sourceId": "26ee479e-c112-45df-a458-f884e94f46df",
+    "name": "Evershine Mall",
+    "category": "retail",
+    "location": "Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Evershine Builders",
+    "height": "G+5 FLOORS",
+    "images": [
+      {
+        "src": "/media/projects/evershine-mall.webp",
+        "alt": "Evershine Mall, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "evershine-millenium-paradise",
+    "sourceId": "45e75251-5e8f-47b1-a2aa-c203964d515f",
+    "name": "Evershine Millenium Paradise",
+    "category": "residential",
+    "location": "Kandivali, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Evershine Builders",
+    "architect": "Sanjay Puri Architects",
+    "area": "21 Lac Sq.Ft",
+    "height": "25 m & 50m",
+    "images": [
+      {
+        "src": "/media/projects/evershine-millenium-paradise.webp",
+        "alt": "Evershine Millenium Paradise, Kandivali, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "eye-institute-shantilal-shanghvi",
+    "sourceId": "677d9e35-0fd0-4a51-a96a-7d5ab286c7ee",
+    "name": "Eye Institute : Shantilal Shanghvi",
+    "category": "healthcare",
+    "location": "Wadala, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Shantilal Shanghvi Foundation",
+    "architect": "Architect Hafeez Contractor",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "110 Crores"
+      },
+      {
+        "label": "No. of Beds",
+        "value": "43"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/eye-institute-shantilal-shanghvi.webp",
+        "alt": "Eye Institute : Shantilal Shanghvi, Wadala, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "farukhnagar-warehouse",
+    "sourceId": "784c9e2e-9417-491f-bf10-1347d6efd925",
+    "name": "Farukhnagar Warehouse",
+    "category": "industrial",
+    "location": "Farukhnagar , Delhi",
+    "country": "India",
+    "international": false,
+    "client": "Allcargo Logistics",
+    "area": "2.2 million Sq. ft",
+    "images": [
+      {
+        "src": "/media/projects/farukhnagar-warehouse.webp",
+        "alt": "Farukhnagar Warehouse, Farukhnagar , Delhi — project image"
+      }
+    ]
+  },
+  {
+    "slug": "fiona",
+    "sourceId": "861f4e22-fd17-482a-b12f-e66d01ee72af",
+    "name": "Fiona",
+    "category": "residential",
+    "location": "Surat, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "Mr. Naresh",
+    "architect": "Black Ink",
+    "area": "4 Lakh Sq.Ft",
+    "height": "40 mtrs, 12 storey",
+    "images": [
+      {
+        "src": "/media/projects/fiona.webp",
+        "alt": "Fiona, Surat, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "firm-vashi-bus-depot-navi-mumbai",
+    "sourceId": "a4767e98-1ca8-4c59-bd88-80cf41152862",
+    "name": "Firm-vashi-bus-depot-navi-mumbai",
+    "category": "public",
+    "location": "Navi Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "NMMT",
+    "architect": "THE FIRM",
+    "height": "GROUND + 21 TYPICAL FLOORS",
+    "images": [
+      {
+        "src": "/media/projects/firm-vashi-bus-depot-navi-mumbai.webp",
+        "alt": "Firm-vashi-bus-depot-navi-mumbai, Navi Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "football-stadium-and-sports-complex",
+    "sourceId": "b0a18539-b306-4391-b7eb-b57a3a65e299",
+    "name": "Football Stadium & Sports Complex",
+    "category": "sports",
+    "location": "Dhankawadi, Pune",
+    "country": "India",
+    "international": false,
+    "client": "Bharati Vidyapeeth Deemed University",
+    "architect": "Talati & Partners LLP",
+    "images": [
+      {
+        "src": "/media/projects/football-stadium-and-sports-complex.webp",
+        "alt": "Football Stadium & Sports Complex, Dhankawadi, Pune — project image"
+      }
+    ]
+  },
+  {
+    "slug": "formulation-plant-mahad",
+    "sourceId": "10172b14-5279-4d18-b6fd-cbf27741df06",
+    "name": "Formulation Plant Mahad",
+    "category": "industrial",
+    "location": "Mahad, Maharashtra",
+    "country": "India",
+    "international": false,
+    "client": "Nicholas Piramal Pvt Ltd",
+    "architect": "Group 7",
+    "images": [
+      {
+        "src": "/media/projects/formulation-plant-mahad.webp",
+        "alt": "Formulation Plant Mahad, Mahad, Maharashtra — project image"
+      }
+    ]
+  },
+  {
+    "slug": "goa-fish-market",
+    "sourceId": "13c39991-0f59-4a36-a86b-51567d713b38",
+    "name": "GOA Fish Market",
+    "category": "commercial",
+    "location": "Madgaon , Goa",
+    "country": "India",
+    "international": false,
+    "client": "GOA GOVT",
+    "architect": "UC JAIN",
+    "images": []
+  },
+  {
+    "slug": "hca-stadium",
+    "sourceId": "08af9fad-54dc-4766-b439-988a4ef1f1b6",
+    "name": "HCA Stadium",
+    "category": "sports",
+    "location": "Jhajar Bhivani, Haryana",
+    "country": "India",
+    "international": false,
+    "architect": "Premnath & Associates",
+    "images": [
+      {
+        "src": "/media/projects/hca-stadium.webp",
+        "alt": "HCA Stadium, Jhajar Bhivani, Haryana — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hilton",
+    "sourceId": "dc7ec0ac-8c43-4210-8667-940ed5340791",
+    "name": "Hilton",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Varanasi",
+    "country": "India",
+    "international": false,
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "144"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/hilton.webp",
+        "alt": "Hilton, Varanasi — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hockey-training-centres",
+    "sourceId": "e6df9246-032b-4a0f-9c66-95e5b47d719d",
+    "name": "Hockey Training Centres",
+    "category": "sports",
+    "location": "16 LOCATIONS, ODISHA",
+    "country": "India",
+    "international": false,
+    "architect": "Collage Design Pvt. Ltd",
+    "images": [
+      {
+        "src": "/media/projects/hockey-training-centres.webp",
+        "alt": "Hockey Training Centres, 16 LOCATIONS, ODISHA — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hostel-building-hindustan-zinc-pvt-ltd",
+    "sourceId": "f2ee3d63-1f0a-447a-81be-796f489dbe43",
+    "name": "Hostel Building Hindustan Zinc Pvt. Ltd",
+    "category": "institutional",
+    "location": "Rajasthan, India",
+    "country": "India",
+    "international": false,
+    "client": "Mehta Enterprises",
+    "architect": "Madhoop Kumar",
+    "images": [
+      {
+        "src": "/media/projects/hostel-building-hindustan-zinc-pvt-ltd.webp",
+        "alt": "Hostel Building Hindustan Zinc Pvt. Ltd, Rajasthan, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hotel-holiday-inn",
+    "sourceId": "a4d7b915-5c1d-41e1-92a3-6974dc6bb0ab",
+    "name": "Hotel Holiday Inn",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Shirdi",
+    "country": "India",
+    "international": false,
+    "architect": "P G PATKI",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "250"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/hotel-holiday-inn.webp",
+        "alt": "Hotel Holiday Inn, Shirdi — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hotel-novotel",
+    "sourceId": "af8b26b6-ec28-41f9-94bc-e7bcbe35395c",
+    "name": "Hotel Novotel",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Lucknow",
+    "country": "India",
+    "international": false,
+    "architect": "Ahmed & associates",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "99"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/hotel-novotel.webp",
+        "alt": "Hotel Novotel, Lucknow — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hubli-library",
+    "sourceId": "fcfad76f-4f44-43bf-af08-2bfa6572598f",
+    "name": "Hubli Library",
+    "category": "institutional",
+    "location": "Hubli, India",
+    "country": "India",
+    "international": false,
+    "client": "K.S.L.U HUBLI",
+    "architect": "Simons and Associates",
+    "area": "1.25 Lakh Sq.Ft",
+    "height": "10 Storey",
+    "images": [
+      {
+        "src": "/media/projects/hubli-library.webp",
+        "alt": "Hubli Library, Hubli, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hyatt-puri",
+    "sourceId": "889dc906-d191-4bab-9308-c80f442d2a6d",
+    "name": "Hyatt - Puri",
+    "category": "hospitality",
+    "location": "Puri , Odisha",
+    "country": "India",
+    "international": false,
+    "client": "MGM RESORTS",
+    "architect": "Smallwood Singapore",
+    "specs": [
+      {
+        "label": "No. of keys",
+        "value": "150"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/hyatt-puri.webp",
+        "alt": "Hyatt - Puri, Puri , Odisha — project image"
+      }
+    ]
+  },
+  {
+    "slug": "hyderabad-warehouse",
+    "sourceId": "51e2b866-0a77-4360-9d9b-dc6703c90fc1",
+    "name": "Hyderabad Warehouse",
+    "category": "industrial",
+    "location": "Hyderabad",
+    "country": "India",
+    "international": false,
+    "client": "Allcargo Logistics",
+    "images": [
+      {
+        "src": "/media/projects/hyderabad-warehouse.webp",
+        "alt": "Hyderabad Warehouse, Hyderabad — project image"
+      },
+      {
+        "src": "/media/projects/hyderabad-warehouse-2.webp",
+        "alt": "Hyderabad Warehouse, Hyderabad — project image 2"
+      }
+    ]
+  },
+  {
+    "slug": "ibis-hotel-alrigga",
+    "sourceId": "e13e6334-3620-4ea0-95a2-e3728b9918ac",
+    "name": "IBIS HOTEL (Alrigga)",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Alrigga, Dubai",
+    "country": "United Arab Emirates",
+    "international": true,
+    "client": "IBIS",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "280"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/ibis-hotel-alrigga.webp",
+        "alt": "IBIS HOTEL (Alrigga), Alrigga, Dubai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "ibis-hotel-thane",
+    "sourceId": "7f44f2a2-87c0-4499-bef1-44c0f427b966",
+    "name": "IBIS HOTEL (Thane)",
+    "category": "hospitality",
+    "scope": "Peer Review",
+    "location": "Thane",
+    "country": "India",
+    "international": false,
+    "client": "IBIS",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "184"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/ibis-hotel-thane.webp",
+        "alt": "IBIS HOTEL (Thane), Thane — project image"
+      }
+    ]
+  },
+  {
+    "slug": "ibis-hotel-vagator",
+    "sourceId": "f6b1098b-acef-4c33-a14e-50d96d063514",
+    "name": "IBIS HOTEL (Vagator)",
+    "category": "hospitality",
+    "status": "ongoing",
+    "location": "Vagator, Goa",
+    "country": "India",
+    "international": false,
+    "client": "IBIS",
+    "architect": "Studio U + A",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "136"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/ibis-hotel-vagator.webp",
+        "alt": "IBIS HOTEL (Vagator), Vagator, Goa — project image"
+      }
+    ]
+  },
+  {
+    "slug": "icon-jacob-circle",
+    "sourceId": "5ddd5c95-90dd-4d4d-9767-9fc3b8030c8c",
+    "name": "ICON - Jacob circle",
+    "category": "tall-structures",
+    "location": "Byculla , Mumbai",
+    "country": "India",
+    "international": false,
+    "images": [
+      {
+        "src": "/media/projects/icon-jacob-circle.webp",
+        "alt": "ICON - Jacob circle, Byculla , Mumbai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "iilabs",
+    "sourceId": "deb995ea-a83f-49c3-a75e-a612914d0e2f",
+    "name": "IILABS",
+    "category": "commercial",
+    "location": "Gurugram",
+    "country": "India",
+    "international": false,
+    "images": [
+      {
+        "src": "/media/projects/iilabs.webp",
+        "alt": "IILABS, Gurugram — project image"
+      }
+    ]
+  },
+  {
+    "slug": "indian-bank",
+    "sourceId": "ae36bf67-543a-4406-b738-94620d55e887",
+    "name": "Indian Bank",
+    "category": "institutional",
+    "location": "Chennai, India",
+    "country": "India",
+    "international": false,
+    "client": "Indian Bank",
+    "architect": "Pheroze Kudianvala Consultants",
+    "area": "1.25 Lakh Sq.Ft",
+    "height": "B+G+4",
+    "images": [
+      {
+        "src": "/media/projects/indian-bank.webp",
+        "alt": "Indian Bank, Chennai, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "infiniti-mall",
+    "sourceId": "fd8cd866-8e72-48d3-bb32-fbecc552d0ba",
+    "name": "Infiniti Mall",
+    "category": "retail",
+    "location": "Andheri , Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "K raheja Construction",
+    "architect": "K Raheja Group",
+    "area": "3,10,000",
+    "images": [
+      {
+        "src": "/media/projects/infiniti-mall.webp",
+        "alt": "Infiniti Mall, Andheri , Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "inorbit-mall-vadodara",
+    "sourceId": "a247fca1-62bf-44bc-8a52-a45373e1015a",
+    "name": "Inorbit Mall-Vadodara",
+    "category": "retail",
+    "location": "Vadodara",
+    "country": "India",
+    "international": false,
+    "client": "Inorbit Malls (India) Private Limited",
+    "architect": "P.G PATKI",
+    "area": "4,46,052 SQ FT",
+    "height": "2B + GROUND + 3 FLOORS",
+    "images": [
+      {
+        "src": "/media/projects/inorbit-mall-vadodara.webp",
+        "alt": "Inorbit Mall-Vadodara, Vadodara — project image"
+      }
+    ]
+  },
+  {
+    "slug": "international-cricket-stadium-itanagar",
+    "sourceId": "cc5b7f75-2770-48df-9e3a-c551226201e5",
+    "name": "International Cricket Stadium, Itanagar",
+    "category": "sports",
+    "location": "ITANAGAR, Arunachal Pradesh",
+    "country": "India",
+    "international": false,
+    "architect": "Collage Design Pvt. Ltd",
+    "images": [
+      {
+        "src": "/media/projects/international-cricket-stadium-itanagar.webp",
+        "alt": "International Cricket Stadium, Itanagar, ITANAGAR, Arunachal Pradesh — project image"
+      }
+    ]
+  },
+  {
+    "slug": "international-cricket-stadium-maldives",
+    "sourceId": "01dfc636-cae4-4708-8be9-c5708df9864e",
+    "name": "International Cricket Stadium, Maldives",
+    "category": "sports",
+    "location": "MALDIVES",
+    "country": "Maldives",
+    "international": true,
+    "architect": "Collage Design Pvt. Ltd",
+    "images": [
+      {
+        "src": "/media/projects/international-cricket-stadium-maldives.webp",
+        "alt": "International Cricket Stadium, Maldives, MALDIVES — project image"
+      }
+    ]
+  },
+  {
+    "slug": "it-park-for-i-flex",
+    "sourceId": "3876b021-ae6d-4ab5-a494-1d0d9f61c999",
+    "name": "IT Park for I-Flex",
+    "category": "commercial",
+    "location": "Ambrosia, Pune",
+    "country": "India",
+    "international": false,
+    "client": "M/S I-Flex",
+    "architect": "Metaphors",
+    "images": [
+      {
+        "src": "/media/projects/it-park-for-i-flex.webp",
+        "alt": "IT Park for I-Flex, Ambrosia, Pune — project image"
+      }
+    ]
+  },
+  {
+    "slug": "jasper",
+    "sourceId": "a439fcaa-5a24-436d-8adc-3684eccfaf4a",
+    "name": "Jasper",
+    "category": "residential",
+    "location": "Thane, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Hiranandani Developers",
+    "architect": "Design Centre",
+    "images": [
+      {
+        "src": "/media/projects/jasper.webp",
+        "alt": "Jasper, Thane, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "jn-integrated-hospitality-and-sports-complex",
+    "sourceId": "48b2ae8c-5cc0-4025-96ef-3563226fa3d7",
+    "name": "JN Integrated Hospitality & Sports Complex",
+    "category": "sports",
+    "location": "SHILLONG",
+    "country": "India",
+    "international": false,
+    "client": "STATE SPORTS COUNCIL MEGHALAYA",
+    "architect": "Collage Design Pvt. Ltd",
+    "images": [
+      {
+        "src": "/media/projects/jn-integrated-hospitality-and-sports-complex.webp",
+        "alt": "JN Integrated Hospitality & Sports Complex, SHILLONG — project image"
+      }
+    ]
+  },
+  {
+    "slug": "jn-stadium-complex-upgradation",
+    "sourceId": "24fb0a04-d399-43cf-ae27-fd8e265d8a74",
+    "name": "JN Stadium Complex Upgradation",
+    "category": "sports",
+    "location": "SHILLONG",
+    "country": "India",
+    "international": false,
+    "client": "STATE SPORTS COUNCIL MEGHALAYA",
+    "architect": "Collage Design Pvt. Ltd",
+    "area": "71,250 sq ft",
+    "images": [
+      {
+        "src": "/media/projects/jn-stadium-complex-upgradation.webp",
+        "alt": "JN Stadium Complex Upgradation, SHILLONG — project image"
+      }
+    ]
+  },
+  {
+    "slug": "jnpt-warehouse",
+    "sourceId": "e95fa9c3-90f7-4c28-bb6e-7b632e99766d",
+    "name": "JNPT - Warehouse",
+    "category": "industrial",
+    "location": "JNPT - Navi Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Allcargo Logistics",
+    "area": "0.53 Million Sq ft",
+    "images": [
+      {
+        "src": "/media/projects/jnpt-warehouse.webp",
+        "alt": "JNPT - Warehouse, JNPT - Navi Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kalinga-international-sports-complex-aquatics",
+    "sourceId": "75e97105-d0ed-4adb-8b52-d2fb1015e1ec",
+    "name": "Kalinga International Sports Complex - Aquatics",
+    "category": "sports",
+    "location": "Bhubaneswar",
+    "country": "India",
+    "international": false,
+    "client": "KALINGA INTERNATIONAL SPORTS COMPLEX",
+    "architect": "Collage Design Pvt. Ltd",
+    "area": "37,055 sq ft",
+    "height": "19.5m",
+    "images": [
+      {
+        "src": "/media/projects/kalinga-international-sports-complex-aquatics.webp",
+        "alt": "Kalinga International Sports Complex - Aquatics, Bhubaneswar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kalinga-international-sports-complex-athletics",
+    "sourceId": "7be72096-c061-4197-b8d5-170593a84f49",
+    "name": "Kalinga International Sports Complex - Athletics",
+    "category": "sports",
+    "location": "Bhubaneswar",
+    "country": "India",
+    "international": false,
+    "client": "KALINGA INTERNATIONAL SPORTS COMPLEX",
+    "architect": "Collage Design Pvt Ltd",
+    "area": "76833 sq ft",
+    "height": "21.60m",
+    "images": [
+      {
+        "src": "/media/projects/kalinga-international-sports-complex-athletics.webp",
+        "alt": "Kalinga International Sports Complex - Athletics, Bhubaneswar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kalinga-international-sports-complex-tennis-court",
+    "sourceId": "39a64b4e-b24c-4e57-94e7-2e788f7a4cc6",
+    "name": "Kalinga International Sports Complex - Tennis Court",
+    "category": "sports",
+    "location": "Bhubaneswar",
+    "country": "India",
+    "international": false,
+    "client": "KALINGA INTERNATIONAL SPORTS COMPLEX",
+    "architect": "Collage Design Pvt Ltd",
+    "area": "20,620 sq ft",
+    "height": "10.350m",
+    "images": [
+      {
+        "src": "/media/projects/kalinga-international-sports-complex-tennis-court.webp",
+        "alt": "Kalinga International Sports Complex - Tennis Court, Bhubaneswar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kalyan-residency-metro-residency-and-grande",
+    "sourceId": "2e254791-04d4-4c1f-970e-ab58d68a323d",
+    "name": "Kalyan Residency - Metro Residency & Grande",
+    "category": "residential",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "West Pioneer Properties India Pvt Ltd",
+    "architect": "Lewis & Hickey",
+    "area": "9 Lakh Sq.Ft",
+    "height": "23 Storey",
+    "images": [
+      {
+        "src": "/media/projects/kalyan-residency-metro-residency-and-grande.webp",
+        "alt": "Kalyan Residency - Metro Residency & Grande, Ahmedabad, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kanakia-boomerang",
+    "sourceId": "3ca7a57b-6a41-44a0-a0b1-c11f90f7be8f",
+    "name": "Kanakia Boomerang",
+    "category": "commercial",
+    "location": "Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Pvt. Ltd",
+    "architect": "Aishwarya Designs",
+    "area": "13 lakh sq.ft",
+    "height": "10 Storey",
+    "images": [
+      {
+        "src": "/media/projects/kanakia-boomerang.webp",
+        "alt": "Kanakia Boomerang, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kanakia-levels",
+    "sourceId": "a4c7d246-93a5-4195-a284-4b575bd06914",
+    "name": "Kanakia Levels",
+    "category": "tall-structures",
+    "location": "Malad, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Pvt. Ltd",
+    "architect": "Daniel S.C Hsia",
+    "area": "4 Lakh Sq.Ft",
+    "height": "40 Storey",
+    "images": [
+      {
+        "src": "/media/projects/kanakia-levels.webp",
+        "alt": "Kanakia Levels, Malad, Mumbai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "kanakia-sevens",
+    "sourceId": "9589a68f-5e4d-405e-a606-c8e4527e9ada",
+    "name": "Kanakia Sevens",
+    "category": "residential",
+    "location": "Malad, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Realty Pvt. Ltd",
+    "architect": "Daniel S.C Hsia",
+    "area": "4 Lakh Sq.Ft",
+    "height": "40",
+    "images": [
+      {
+        "src": "/media/projects/kanakia-sevens.webp",
+        "alt": "Kanakia Sevens, Malad, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kanakia-silicon-valley",
+    "sourceId": "91e2a304-b042-4478-b2a4-67568ecc1c84",
+    "name": "Kanakia Silicon Valley",
+    "category": "residential",
+    "location": "Powai Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Realty Pvt Ltd",
+    "architect": "Ingrain Architects",
+    "area": "28.6 Lacs sq.ft ( 7 towers)",
+    "height": "108.15 m",
+    "images": [
+      {
+        "src": "/media/projects/kanakia-silicon-valley.webp",
+        "alt": "Kanakia Silicon Valley, Powai Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "kumaria-residency",
+    "sourceId": "83558de0-d27a-449a-8703-588ad61a27b8",
+    "name": "Kumaria Residency",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Andheri, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Kumaria residency",
+    "architect": "K G KAPADIA AND CO",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "30"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/kumaria-residency.webp",
+        "alt": "Kumaria Residency, Andheri, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "lanco-hills-it6",
+    "sourceId": "76bd4ae4-3404-410b-a803-49b9d42b9a8c",
+    "name": "Lanco Hills IT6",
+    "category": "commercial",
+    "location": "Hyderabad",
+    "country": "India",
+    "international": false,
+    "client": "M/S Lanco Hills",
+    "architect": "Abhikalpan & Assoc",
+    "area": "5 lakh sq.ft",
+    "height": "B+G+3 Podium+19",
+    "images": [
+      {
+        "src": "/media/projects/lanco-hills-it6.webp",
+        "alt": "Lanco Hills IT6, Hyderabad — project image"
+      }
+    ]
+  },
+  {
+    "slug": "link-view",
+    "sourceId": "2abf4efd-b9c4-4075-aa70-49b81ac191c8",
+    "name": "Link View",
+    "category": "residential",
+    "location": "Sports City, Dubai",
+    "country": "United Arab Emirates",
+    "international": true,
+    "client": "Al Zarooni Group",
+    "architect": "Diar Consultants",
+    "area": "9 Lakh Sq.Ft",
+    "height": "2B+G+13",
+    "images": [
+      {
+        "src": "/media/projects/link-view.webp",
+        "alt": "Link View, Sports City, Dubai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "lotus-sky-garden",
+    "sourceId": "712e55d4-c4fc-4bee-b45a-04f5d12b03b0",
+    "name": "Lotus Sky Garden",
+    "category": "tall-structures",
+    "location": "Malad, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Lotus Group",
+    "architect": "Vivek Bhole Architects",
+    "area": "4 Lakh Sq.Ft",
+    "height": "G + 3POD + 47 Storey",
+    "images": [
+      {
+        "src": "/media/projects/lotus-sky-garden.webp",
+        "alt": "Lotus Sky Garden, Malad, Mumbai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "makhanlal-university-bhopal",
+    "sourceId": "72aac226-8a66-460e-b17d-3f1e11e743bb",
+    "name": "Makhanlal University, Bhopal",
+    "category": "institutional",
+    "location": "Bhopal",
+    "country": "India",
+    "international": false,
+    "client": "Makhanlal",
+    "architect": "Finer Edge",
+    "images": [
+      {
+        "src": "/media/projects/makhanlal-university-bhopal.webp",
+        "alt": "Makhanlal University, Bhopal, Bhopal — project image"
+      }
+    ]
+  },
+  {
+    "slug": "malur-warehouse",
+    "sourceId": "2d543e6e-798a-46e8-87e6-c5b6738bd968",
+    "name": "Malur - Warehouse",
+    "category": "industrial",
+    "location": "Malur , Chennai",
+    "country": "India",
+    "international": false,
+    "client": "Allcargo Logistics",
+    "area": "1.5 Million Sq. ft",
+    "images": [
+      {
+        "src": "/media/projects/malur-warehouse.webp",
+        "alt": "Malur - Warehouse, Malur , Chennai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "marriott-autograph-collection",
+    "sourceId": "bffaa6ce-6f8f-43bc-84fa-822297a9b739",
+    "name": "Marriott Autograph Collection",
+    "category": "hospitality",
+    "status": "ongoing",
+    "location": "Dominica",
+    "country": "Dominica",
+    "international": true,
+    "client": "Marriott",
+    "architect": "Arkiplan international",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "130"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/marriott-autograph-collection.webp",
+        "alt": "Marriott Autograph Collection, Dominica — project image"
+      }
+    ]
+  },
+  {
+    "slug": "mawkdook-pedestrian-overlook",
+    "sourceId": "20f44c50-1a92-4110-8fcd-11f3a7e37de4",
+    "name": "Mawkdook Pedestrian Overlook",
+    "category": "public",
+    "location": "SHILLONG",
+    "country": "India",
+    "international": false,
+    "client": "STATE GOVT OF MEGHALAYA",
+    "architect": "CDPL",
+    "height": "40M cantilever Bridge",
+    "summary": "Open viewing deck on a 40 m cantilever.",
+    "images": [
+      {
+        "src": "/media/projects/mawkdook-pedestrian-overlook.webp",
+        "alt": "Mawkdook Pedestrian Overlook, SHILLONG — project image"
+      }
+    ]
+  },
+  {
+    "slug": "mechnikov-biotechnology-company-nicaragua",
+    "sourceId": "1b675437-44b0-4872-82a0-451ef3dcbc6a",
+    "name": "Mechnikov Biotechnology company - Nicaragua",
+    "category": "public",
+    "location": "Nicaragua",
+    "country": "Nicaragua",
+    "international": true,
+    "images": [
+      {
+        "src": "/media/projects/mechnikov-biotechnology-company-nicaragua.webp",
+        "alt": "Mechnikov Biotechnology company - Nicaragua, Nicaragua — project image"
+      }
+    ]
+  },
+  {
+    "slug": "metro",
+    "sourceId": "44690610-80ed-4186-afe0-3f0808e67adf",
+    "name": "Metro",
+    "category": "commercial",
+    "location": "Kandivali",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Constructions",
+    "architect": "Access Architects",
+    "area": "6 Lakh Sq. Ft",
+    "height": "18 Levels",
+    "images": [
+      {
+        "src": "/media/projects/metro.webp",
+        "alt": "Metro, Kandivali — project image"
+      }
+    ]
+  },
+  {
+    "slug": "mind-space",
+    "sourceId": "f1523fd4-8669-44af-8980-6694cddbe6df",
+    "name": "Mind Space",
+    "category": "commercial",
+    "location": "Malad, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "K Raheja Corporation",
+    "architect": "Ar. Bihari L",
+    "area": "45 lakhs sq.ft",
+    "images": [
+      {
+        "src": "/media/projects/mind-space.webp",
+        "alt": "Mind Space, Malad, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "mittal-mall",
+    "sourceId": "a69cd1c6-5225-41b0-b3d1-74c011786c5e",
+    "name": "Mittal Mall",
+    "category": "retail",
+    "location": "Ajmer",
+    "country": "India",
+    "international": false,
+    "client": "Mittal Dwellers",
+    "architect": "HEMEN VORA & Associates",
+    "height": "3B +LOWER GROUND + GROUND + 7FLOORS",
+    "images": [
+      {
+        "src": "/media/projects/mittal-mall.webp",
+        "alt": "Mittal Mall, Ajmer — project image"
+      }
+    ]
+  },
+  {
+    "slug": "navi-mumbai-municipal-corporation-hq",
+    "sourceId": "aec0f6f4-1319-4885-8720-d8156ecd248e",
+    "name": "Navi Mumbai Municipal Corporation HQ",
+    "category": "institutional",
+    "location": "Navi Mumbai, India",
+    "country": "India",
+    "international": false,
+    "client": "NMMC",
+    "architect": "Hiten Sethi Architects",
+    "area": "3.58 Lakh Sq.Ft",
+    "images": [
+      {
+        "src": "/media/projects/navi-mumbai-municipal-corporation-hq.webp",
+        "alt": "Navi Mumbai Municipal Corporation HQ, Navi Mumbai, India — project image"
+      },
+      {
+        "src": "/media/projects/navi-mumbai-municipal-corporation-hq-2.webp",
+        "alt": "Navi Mumbai Municipal Corporation HQ, Navi Mumbai, India — project image 2"
+      }
+    ]
+  },
+  {
+    "slug": "netaji-nagar",
+    "sourceId": "d50017fd-f082-4fb2-8034-d7a1356a76b9",
+    "name": "Netaji Nagar",
+    "category": "residential",
+    "location": "New Delhi, India",
+    "country": "India",
+    "international": false,
+    "client": "NBCC",
+    "architect": "Gian P Mathur & Associates",
+    "area": "46 Lakh Sq.Ft",
+    "summary": "Netaji Nagar is a part of South West Delhi and comes under the New Delhi parliamentary area. It predominantly has official government residences/quarters.",
+    "summaryTruncatedInSource": true,
+    "images": [
+      {
+        "src": "/media/projects/netaji-nagar.webp",
+        "alt": "Netaji Nagar, New Delhi, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "nirma-university",
+    "sourceId": "05e16eb8-4697-4343-9eab-4301d0257b39",
+    "name": "Nirma University",
+    "category": "institutional",
+    "location": "Ahmedabad, India",
+    "country": "India",
+    "international": false,
+    "client": "Nirma University",
+    "architect": "AAA",
+    "height": "2B+ 14",
+    "images": [
+      {
+        "src": "/media/projects/nirma-university.webp",
+        "alt": "Nirma University, Ahmedabad, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "nitin-killawala-villa",
+    "sourceId": "60e548a1-6f64-4b51-adf7-3db8321847e2",
+    "name": "Nitin Killawala Villa",
+    "category": "residential",
+    "location": "Juhu",
+    "country": "India",
+    "international": false,
+    "client": "Nitin Killawala",
+    "architect": "Nitin Killawala",
+    "height": "9 storey",
+    "images": [
+      {
+        "src": "/media/projects/nitin-killawala-villa.webp",
+        "alt": "Nitin Killawala Villa, Juhu — project image"
+      }
+    ]
+  },
+  {
+    "slug": "nmims-hospital-and-medical-college",
+    "sourceId": "8b654e9c-7a52-48cb-8dd8-100df95cb436",
+    "name": "NMIMS Hospital & Medical College",
+    "category": "healthcare",
+    "location": "Shirpur",
+    "country": "India",
+    "international": false,
+    "client": "SVKM",
+    "architect": "TALATI & PANTHAKY ASSOCIATES",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "350 crore"
+      },
+      {
+        "label": "Total no. of Beds",
+        "value": "900"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/nmims-hospital-and-medical-college.webp",
+        "alt": "NMIMS Hospital & Medical College, Shirpur — project image"
+      }
+    ]
+  },
+  {
+    "slug": "north-jai-rameshwar",
+    "sourceId": "f3075dd0-7eaf-4511-986b-35101e48675e",
+    "name": "North Jai Rameshwar",
+    "category": "residential",
+    "location": "Goregaon, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "M/s Rexon Developers LLP",
+    "architect": "M/s Kalpesh Shah",
+    "area": "4.78 Lacs sq.ft",
+    "height": "148.90m",
+    "images": [
+      {
+        "src": "/media/projects/north-jai-rameshwar.webp",
+        "alt": "North Jai Rameshwar, Goregaon, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "north-sankalp-rehab-building",
+    "sourceId": "79cd2201-27d1-4976-b501-953c1f56ffce",
+    "name": "North Sankalp Rehab Building",
+    "category": "residential",
+    "location": "Govandi, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "North Construction",
+    "architect": "North Construction",
+    "area": "3.61 Lacs sq.ft",
+    "height": "103.60m",
+    "images": [
+      {
+        "src": "/media/projects/north-sankalp-rehab-building.webp",
+        "alt": "North Sankalp Rehab Building, Govandi, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "northern-hills",
+    "sourceId": "0cd2ae6d-e793-4074-8deb-77e4b4e61a50",
+    "name": "Northern Hills",
+    "category": "tall-structures",
+    "location": "Dahisar , Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "N Rose Realty",
+    "architect": "K Arch Architect",
+    "area": "16,60,410 Sq ft",
+    "height": "235m",
+    "images": [
+      {
+        "src": "/media/projects/northern-hills.webp",
+        "alt": "Northern Hills, Dahisar , Mumbai — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "one-meraki",
+    "sourceId": "dca2f65b-7c7d-4b7e-a464-1aebc7016630",
+    "name": "One Meraki",
+    "category": "residential",
+    "location": "Chembur, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Sameer salva",
+    "architect": "P R consultants",
+    "area": "8 Lacs sq.ft (3 towers)",
+    "height": "65 m",
+    "images": [
+      {
+        "src": "/media/projects/one-meraki.webp",
+        "alt": "One Meraki, Chembur, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "onxy-mall",
+    "sourceId": "1663c095-4918-48e3-8393-f23d7bcabb36",
+    "name": "ONXY Mall",
+    "category": "retail",
+    "location": "Jamshedpur",
+    "country": "India",
+    "international": false,
+    "client": "City Residency Realtors",
+    "architect": "A cube Arch",
+    "area": "2,15,581 SQ ft",
+    "height": "36m",
+    "images": [
+      {
+        "src": "/media/projects/onxy-mall.webp",
+        "alt": "ONXY Mall, Jamshedpur — project image"
+      }
+    ]
+  },
+  {
+    "slug": "pediatric-cancer-care-shantilal-shanghvi",
+    "sourceId": "c3df0bbc-bfdf-4b6f-9290-a1f54d4a5cfd",
+    "name": "Pediatric Cancer Care : Shantilal Shanghvi",
+    "category": "healthcare",
+    "country": "India",
+    "international": false,
+    "client": "Shantilal Shanghvi Foundation",
+    "architect": "Pratham Enterprises",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "250 Crores"
+      },
+      {
+        "label": "No. of Beds",
+        "value": "400"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/pediatric-cancer-care-shantilal-shanghvi.webp",
+        "alt": "Pediatric Cancer Care : Shantilal Shanghvi — project image"
+      }
+    ]
+  },
+  {
+    "slug": "pernem-bustop",
+    "sourceId": "abb3a961-05eb-4e77-a31e-78c90f555077",
+    "name": "Pernem Bustop",
+    "category": "public",
+    "location": "Goa, India",
+    "country": "India",
+    "international": false,
+    "client": "GSIDC",
+    "architect": "UCJ Architects And Environment",
+    "area": "6,943 Sq.M",
+    "height": "1",
+    "images": [
+      {
+        "src": "/media/projects/pernem-bustop.webp",
+        "alt": "Pernem Bustop, Goa, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "piramal-healthcare",
+    "sourceId": "ba29b0a0-e59a-4937-be25-b8a61d415342",
+    "name": "Piramal Healthcare",
+    "category": "institutional",
+    "location": "Zydus SEZ, Bavla, Ahmedabad",
+    "country": "India",
+    "international": false,
+    "client": "Piramal",
+    "area": "60,000 sq/ft",
+    "height": "10 Storey",
+    "images": [
+      {
+        "src": "/media/projects/piramal-healthcare.webp",
+        "alt": "Piramal Healthcare, Zydus SEZ, Bavla, Ahmedabad — project image"
+      }
+    ]
+  },
+  {
+    "slug": "planet-sks",
+    "sourceId": "a36514fd-c39c-4800-91f9-ee0aab5b25dc",
+    "name": "Planet SKS",
+    "category": "tall-structures",
+    "location": "Mangalore",
+    "country": "India",
+    "international": false,
+    "client": "SKS Netgate Pvt Ltd",
+    "architect": "Sanath Shetty",
+    "area": "7 Lakhs Sq ft",
+    "height": "35 storey",
+    "summary": "SACPL received the “Best Excellence in Design” award for this project.",
+    "images": [
+      {
+        "src": "/media/projects/planet-sks.webp",
+        "alt": "Planet SKS, Mangalore — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "plant-7",
+    "sourceId": "b6d300bd-f24b-4279-8b1c-2134817fd2f4",
+    "name": "Plant 7",
+    "category": "industrial",
+    "location": "Ahmednagar",
+    "country": "India",
+    "international": false,
+    "client": "Sun Pharmaceutical",
+    "inHouseArchitecture": true,
+    "images": [
+      {
+        "src": "/media/projects/plant-7.webp",
+        "alt": "Plant 7, Ahmednagar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "pragati-logistic-and-industrial-park",
+    "sourceId": "4e68efb8-c925-403d-a720-557bc9033531",
+    "name": "Pragati Logistic and Industrial Park",
+    "category": "industrial",
+    "location": "Echur , Chennai",
+    "country": "India",
+    "international": false,
+    "client": "Pragati",
+    "architect": "Conservve Buildcon",
+    "images": [
+      {
+        "src": "/media/projects/pragati-logistic-and-industrial-park.webp",
+        "alt": "Pragati Logistic and Industrial Park, Echur , Chennai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "pragati-maidan",
+    "sourceId": "9acb7626-a005-486c-a18a-c0b877709234",
+    "name": "Pragati Maidan",
+    "category": "design-and-bid",
+    "bidOutcome": "lost",
+    "location": "New Delhi",
+    "country": "India",
+    "international": false,
+    "client": "NCC",
+    "architect": "Creative group",
+    "area": "Area: 62,21,948 Sq.ft",
+    "summary": "Phase 1: Convention Centre – 53,399 m²; Exhibition Area – 1,51,687 m²; Administration Building – 8,857 m²; Total Basement – 1,68,305 m².",
+    "summaryTruncatedInSource": true,
+    "images": [
+      {
+        "src": "/media/projects/pragati-maidan.webp",
+        "alt": "Pragati Maidan, New Delhi — project image"
+      }
+    ]
+  },
+  {
+    "slug": "pratham-bulet",
+    "sourceId": "21b9e5d5-2a1d-4f2a-8995-5863584fd88c",
+    "name": "Pratham Bulet",
+    "category": "residential",
+    "location": "Vadodara, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "Pratham Enterprises",
+    "architect": "Pratham Enterprises",
+    "area": "11 Lakhs sq ft",
+    "height": "45 m",
+    "images": [
+      {
+        "src": "/media/projects/pratham-bulet.webp",
+        "alt": "Pratham Bulet, Vadodara, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "prince-aga-khan",
+    "sourceId": "fcae98ce-91bc-4121-8020-0c986419de5f",
+    "name": "Prince Aga Khan",
+    "category": "tall-structures",
+    "location": "Mazgaon",
+    "country": "India",
+    "international": false,
+    "client": "AGA KHAN DEVELOPMENT NETWORK (AKDN)",
+    "architect": "P.G Patki",
+    "area": "16 Lakh Sq.Ft",
+    "height": "80 Storey",
+    "images": [
+      {
+        "src": "/media/projects/prince-aga-khan.webp",
+        "alt": "Prince Aga Khan, Mazgaon — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "pspf-commercial-building",
+    "sourceId": "31905254-df37-4839-881a-5e6bafb29e69",
+    "name": "PSPF Commercial Building",
+    "category": "tall-structures",
+    "location": "Tanzania",
+    "country": "Tanzania",
+    "international": true,
+    "client": "Public Service and Pension Fund",
+    "architect": "Al Hatmy Design and engineering Consultancy",
+    "area": "8.25 Lakh Sq.Ft",
+    "height": "2B+G+M+35 Storey",
+    "images": [
+      {
+        "src": "/media/projects/pspf-commercial-building.webp",
+        "alt": "PSPF Commercial Building, Tanzania — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "r-and-d-building",
+    "sourceId": "31877b85-191b-4277-a66f-f020633ea648",
+    "name": "R & D Building",
+    "category": "industrial",
+    "location": "Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Unichem Laboratories Pvt Ltd",
+    "inHouseArchitecture": true,
+    "images": [
+      {
+        "src": "/media/projects/r-and-d-building.webp",
+        "alt": "R & D Building, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "r-239-raheja-height",
+    "sourceId": "21be2b5c-6c8f-442d-b477-05fd022528c2",
+    "name": "R 239 ( Raheja Height)",
+    "category": "residential",
+    "location": "Malad, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "K. Raheja corp",
+    "architect": "G. L Raheja & Associates",
+    "area": "35 lakhs sq ft",
+    "height": "120 M",
+    "images": [
+      {
+        "src": "/media/projects/r-239-raheja-height.webp",
+        "alt": "R 239 ( Raheja Height), Malad, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "radisson",
+    "sourceId": "09faf91d-a379-46c0-8c08-cb03e3afce00",
+    "name": "Radisson",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Andheri , Mumbai",
+    "country": "India",
+    "international": false,
+    "architect": "Ahmed & associates",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "140"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/radisson.webp",
+        "alt": "Radisson, Andheri , Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "radisson-blu",
+    "sourceId": "ed907f2a-b449-4fdc-92fe-eba85af10b6c",
+    "name": "Radisson Blu",
+    "category": "hospitality",
+    "scope": "Concept Design",
+    "location": "Powai, Mumbai",
+    "country": "India",
+    "international": false,
+    "architect": "Vivek Bhole Arch",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "210"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/radisson-blu.webp",
+        "alt": "Radisson Blu, Powai, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "raheja-siena",
+    "sourceId": "3fbf554e-2ae2-469d-a8e0-f58cab48dd26",
+    "name": "Raheja Siena",
+    "category": "residential",
+    "location": "Versova, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Raheja Universal Pvt. Ltd",
+    "architect": "MQA",
+    "area": "4.82 Lacs sq.ft",
+    "height": "120 m",
+    "images": [
+      {
+        "src": "/media/projects/raheja-siena.webp",
+        "alt": "Raheja Siena, Versova, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "raheja-verona",
+    "sourceId": "fee85ce4-4ddb-46d6-aa4e-8d52704cea5e",
+    "name": "Raheja Verona",
+    "category": "residential",
+    "location": "Versova, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Raheja Universal Pvt. Ltd",
+    "architect": "MQA",
+    "area": "4.82 Lacs sq.ft",
+    "height": "120 m",
+    "images": [
+      {
+        "src": "/media/projects/raheja-verona.webp",
+        "alt": "Raheja Verona, Versova, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "raitech-park",
+    "sourceId": "6fc27f7f-f12d-4d45-8f71-df0c638b711f",
+    "name": "Raitech Park",
+    "category": "commercial",
+    "location": "Sonipat",
+    "country": "India",
+    "international": false,
+    "client": "Anantraj Industries",
+    "architect": "Prem Nath & Associates",
+    "area": "25 lakh sq.ft",
+    "height": "25 storey",
+    "images": [
+      {
+        "src": "/media/projects/raitech-park.webp",
+        "alt": "Raitech Park, Sonipat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "ravindra-bhavan",
+    "sourceId": "076476a0-f1da-4691-911d-9356e76a4f31",
+    "name": "Ravindra Bhavan",
+    "category": "institutional",
+    "location": "Canacona, Goa, India",
+    "country": "India",
+    "international": false,
+    "client": "GSIDC",
+    "architect": "UCJ Architects And Environment",
+    "area": "10,571.7 Sq.M",
+    "summary": "Ravindra Bhavan is a cultural complex in Canacona with a total built-up area of 10,571.7 m², housing functions that include an 800-seat grand auditorium.",
+    "summaryTruncatedInSource": true,
+    "images": [
+      {
+        "src": "/media/projects/ravindra-bhavan.webp",
+        "alt": "Ravindra Bhavan, Canacona, Goa, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "rc-b-045",
+    "sourceId": "1cef8015-b715-4990-8e4e-21d5f03f05b5",
+    "name": "RC-B-045",
+    "category": "residential",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "international": true,
+    "client": "Muhammad Al Ali",
+    "architect": "Elite Consulting Engineering",
+    "height": "2B+G+8",
+    "images": [
+      {
+        "src": "/media/projects/rc-b-045.webp",
+        "alt": "RC-B-045, Dubai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "rd-jakaria-sale-building",
+    "sourceId": "9957060b-fc9d-49f1-a7f3-5f4c7b2607bf",
+    "name": "RD Jakaria-sale Building",
+    "category": "residential",
+    "location": "Malad, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Royal Realtors",
+    "architect": "K Arch",
+    "area": "4.15 Lacs sq.ft",
+    "height": "119.50 m",
+    "images": [
+      {
+        "src": "/media/projects/rd-jakaria-sale-building.webp",
+        "alt": "RD Jakaria-sale Building, Malad, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "redevelopment-of-gpra-netaji-nagar",
+    "sourceId": "9fa2645d-44fe-456b-9de6-e5f7915fae4b",
+    "name": "Redevelopment of GPRA Netaji Nagar",
+    "category": "design-and-bid",
+    "bidOutcome": "won",
+    "location": "Netaji Nagar",
+    "country": "India",
+    "international": false,
+    "client": "NBCC",
+    "architect": "Gian P Mathur & Associates",
+    "area": "46,00,000 Sq.ft",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "1076 Crores"
+      }
+    ],
+    "summary": "Type II buildings (G+9) – 19 towers; Type III buildings (G+9) – 18 towers.",
+    "images": [
+      {
+        "src": "/media/projects/redevelopment-of-gpra-netaji-nagar.webp",
+        "alt": "Redevelopment of GPRA Netaji Nagar, Netaji Nagar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "redevelopment-of-gpra-sarojini-nagar",
+    "sourceId": "db52883e-a021-40d1-989c-e208c94fd5ff",
+    "name": "Redevelopment Of GPRA Sarojini Nagar",
+    "category": "design-and-bid",
+    "bidOutcome": "lost",
+    "location": "Sarojini Nagar",
+    "country": "India",
+    "international": false,
+    "area": "34,82,997.36 Sqft",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "857 Crore"
+      }
+    ],
+    "summary": "29 towers in a combination of G+11, G+12 and G+8 structures.",
+    "images": [
+      {
+        "src": "/media/projects/redevelopment-of-gpra-sarojini-nagar.webp",
+        "alt": "Redevelopment Of GPRA Sarojini Nagar, Sarojini Nagar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "reserve-bank-of-india",
+    "sourceId": "f091026c-87a3-484d-826d-c28d3c9f71d8",
+    "name": "Reserve Bank of India",
+    "category": "institutional",
+    "location": "Lucknow, India",
+    "country": "India",
+    "international": false,
+    "client": "Reserve Bank of India",
+    "architect": "Group 7",
+    "area": "1. 25 Lakh Sq.Ft",
+    "height": "G+3",
+    "summary": "A live load of 5,000 kg/m² was considered on the ground floor for the vault strong-room requirement, in compliance with international standards.",
+    "summaryTruncatedInSource": true,
+    "images": [
+      {
+        "src": "/media/projects/reserve-bank-of-india.webp",
+        "alt": "Reserve Bank of India, Lucknow, India — project image"
+      }
+    ],
+    "structuralSystem": "Conventional beam-slab (G+3)"
+  },
+  {
+    "slug": "royal-pristo-sale-building",
+    "sourceId": "b1b7cb3a-c4ef-47bb-8a41-489751a94d88",
+    "name": "Royal Pristo-sale Building",
+    "category": "residential",
+    "location": "Malad, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Royal Realtors",
+    "architect": "Design Studio (Ubaid Pettiwala)",
+    "area": "6.00 Lacs sq.ft (3 Towers)",
+    "height": "69.90m",
+    "images": [
+      {
+        "src": "/media/projects/royal-pristo-sale-building.webp",
+        "alt": "Royal Pristo-sale Building, Malad, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "sagar-plaza",
+    "sourceId": "7fa2f5b6-582f-4cc3-ad87-b054184d8e7d",
+    "name": "Sagar Plaza",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Pune",
+    "country": "India",
+    "international": false,
+    "client": "Sagar Plaza",
+    "architect": "I Channey & associates",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "52"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/sagar-plaza.webp",
+        "alt": "Sagar Plaza, Pune — project image"
+      }
+    ]
+  },
+  {
+    "slug": "samarpan",
+    "sourceId": "f4d1c670-45c6-4ef3-b6ce-c99c8787ea0e",
+    "name": "Samarpan",
+    "category": "residential",
+    "location": "Kandivali, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Kanakia Spaces Realty Pvt Ltd",
+    "architect": "Madhoop Kumar",
+    "images": [
+      {
+        "src": "/media/projects/samarpan.webp",
+        "alt": "Samarpan, Kandivali, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "sardardham-campus",
+    "sourceId": "193cec9f-2534-4c72-8588-028774413643",
+    "name": "Sardardham Campus",
+    "category": "institutional",
+    "location": "Ahmedabad, India",
+    "country": "India",
+    "international": false,
+    "client": "Sardardham",
+    "architect": "MMP Architects",
+    "area": "6,71,366.47 Lakh Sq.Ft",
+    "height": "2B+ 13",
+    "specs": [
+      {
+        "label": "Statue Height",
+        "value": "15m"
+      },
+      {
+        "label": "Pedestal",
+        "value": "2m"
+      },
+      {
+        "label": "Material",
+        "value": "Bronze covering,Stainless Steel Frame inside (Hollow inside)"
+      },
+      {
+        "label": "Statue Load",
+        "value": "17T"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/sardardham-campus.webp",
+        "alt": "Sardardham Campus, Ahmedabad, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "satra-hills",
+    "sourceId": "12bdcb27-4510-41c0-8bd1-0c5b8a6ec23b",
+    "name": "Satra Hills",
+    "category": "residential",
+    "location": "Ghatkopar, Mumbai, IN",
+    "country": "India",
+    "international": false,
+    "client": "Satra Group",
+    "architect": "Neo Modern",
+    "area": "4 Lakh Sq.Ft",
+    "height": "G+23",
+    "images": [
+      {
+        "src": "/media/projects/satra-hills.webp",
+        "alt": "Satra Hills, Ghatkopar, Mumbai, IN — project image"
+      }
+    ]
+  },
+  {
+    "slug": "sbi-gift-city",
+    "sourceId": "e8c12707-e00f-48ba-aadd-444f118df94d",
+    "name": "SBI Gift City",
+    "category": "institutional",
+    "location": "Gift City Gandhinagar, Gujarat",
+    "country": "India",
+    "international": false,
+    "client": "SBI",
+    "architect": "Premnath Architects",
+    "height": "3B+ 14",
+    "images": [
+      {
+        "src": "/media/projects/sbi-gift-city.webp",
+        "alt": "SBI Gift City, Gift City Gandhinagar, Gujarat — project image"
+      }
+    ]
+  },
+  {
+    "slug": "seven-eleven-courtyard",
+    "sourceId": "ef8a15b7-c3ed-4d55-a94c-f8f6905f960c",
+    "name": "Seven-eleven-courtyard",
+    "category": "residential",
+    "location": "Mira Road",
+    "country": "India",
+    "international": false,
+    "client": "SEVEN ELEVEN CONSTRUCTION PVT.LTD",
+    "architect": "HAFEEZ CONTRACTOR",
+    "area": "8,49,731 Sq ft",
+    "height": "2 BASEMENT + GROUND + 36 TYPICAL FLOORS",
+    "images": [
+      {
+        "src": "/media/projects/seven-eleven-courtyard.webp",
+        "alt": "Seven-eleven-courtyard, Mira Road — project image"
+      }
+    ]
+  },
+  {
+    "slug": "shangrila-hotel-rotana-and-marvel",
+    "sourceId": "7ca2aa3b-6c45-44fe-99d7-da33d6d18700",
+    "name": "Shangrila, Hotel Rotana & Marvel",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Doha",
+    "country": "Qatar",
+    "international": true,
+    "architect": "HOK",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "314, 254 & 254"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/shangrila-hotel-rotana-and-marvel.webp",
+        "alt": "Shangrila, Hotel Rotana & Marvel, Doha — project image"
+      }
+    ]
+  },
+  {
+    "slug": "shaurya-smarak-war-memorial",
+    "sourceId": "8deced41-67a5-4a14-ab2d-33e3c8ac59ee",
+    "name": "Shaurya Smarak - War memorial",
+    "category": "public",
+    "location": "Bhopal, India",
+    "country": "India",
+    "international": false,
+    "client": "Government of Madhya Pradesh",
+    "architect": "UCJ Architects And Environment",
+    "area": "8,000 Sq.m (Floor)",
+    "images": [
+      {
+        "src": "/media/projects/shaurya-smarak-war-memorial.webp",
+        "alt": "Shaurya Smarak - War memorial, Bhopal, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "shreeji-sharan-sky-rise",
+    "sourceId": "075dba15-306d-4bc0-8958-78fd80b45d86",
+    "name": "Shreeji Sharan Sky rise",
+    "category": "residential",
+    "location": "Kandivali , Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "SHREEJI SHARAN GROUP OF COMPANIES",
+    "architect": "The design studio",
+    "area": "5.5 Lacs sq.ft",
+    "height": "200.4 m",
+    "images": [
+      {
+        "src": "/media/projects/shreeji-sharan-sky-rise.webp",
+        "alt": "Shreeji Sharan Sky rise, Kandivali , Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "shubham-amrutwadi",
+    "sourceId": "7bb1b6ed-4d72-4741-aef5-0ff536901376",
+    "name": "Shubham ( Amrutwadi)",
+    "category": "residential",
+    "location": "Girgaon Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "M/s ROHAN LIFESCAPES PVT.LTD",
+    "architect": "ARCHITECTURAL CONSULTANT",
+    "area": "3.4 lacs sq.ft",
+    "height": "103.8 m",
+    "images": [
+      {
+        "src": "/media/projects/shubham-amrutwadi.webp",
+        "alt": "Shubham ( Amrutwadi), Girgaon Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "siddharth-mcgm-hospital",
+    "sourceId": "34adaa88-632f-4a54-8873-095d8d67d73c",
+    "name": "Siddharth MCGM Hospital",
+    "category": "healthcare",
+    "location": "Goregaon",
+    "country": "India",
+    "international": false,
+    "client": "MCGM",
+    "architect": "Neo Modern Architect Pvt Ltd",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "300 crore"
+      },
+      {
+        "label": "Total no. of beds",
+        "value": "306"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/siddharth-mcgm-hospital.webp",
+        "alt": "Siddharth MCGM Hospital, Goregaon — project image"
+      }
+    ]
+  },
+  {
+    "slug": "sikkim-resort",
+    "sourceId": "d2edbefa-b6d6-4dfa-b321-b9c4204a82ab",
+    "name": "Sikkim Resort",
+    "category": "hospitality",
+    "status": "ongoing",
+    "location": "Sikkim",
+    "country": "India",
+    "international": false,
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "166"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/sikkim-resort.webp",
+        "alt": "Sikkim Resort, Sikkim — project image"
+      }
+    ]
+  },
+  {
+    "slug": "super-specialty-grand-port-hospital-medical-campus-phase-i-ii-and-iii",
+    "sourceId": "86ab6f04-4f8f-4502-a795-cea847956d3a",
+    "name": "Super Specialty Grand Port Hospital Medical Campus-Phase I, II & III",
+    "category": "design-and-bid",
+    "bidOutcome": "won",
+    "location": "Wadala, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Ashoka Buildcon",
+    "area": "13,51,896 Sq.ft",
+    "summary": "Campus programme: new hospital, academic building, staff and student accommodation, elderly care, shopping complex, incubation centre, wellness centre and auditorium.",
+    "images": [
+      {
+        "src": "/media/projects/super-specialty-grand-port-hospital-medical-campus-phase-i-ii-and-iii.webp",
+        "alt": "Super Specialty Grand Port Hospital Medical Campus-Phase I, II & III, Wadala, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "suyojit-villas",
+    "sourceId": "145fdf2e-d316-45a2-ac92-65d693413513",
+    "name": "Suyojit Villas",
+    "category": "residential",
+    "location": "Nashik",
+    "country": "India",
+    "international": false,
+    "client": "Sun Infrastructure pvt ltd",
+    "architect": "Anant Technocrats Pvt ltd",
+    "area": "8 Million Sq ft",
+    "images": [
+      {
+        "src": "/media/projects/suyojit-villas.webp",
+        "alt": "Suyojit Villas, Nashik — project image"
+      }
+    ]
+  },
+  {
+    "slug": "swosti-hotel",
+    "sourceId": "0015baac-e88c-4241-b4ee-335ab9a2193a",
+    "name": "Swosti Hotel",
+    "category": "hospitality",
+    "location": "Puri",
+    "country": "India",
+    "international": false,
+    "client": "Swosti Group",
+    "architect": "Dencity Arch",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "150"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/swosti-hotel.webp",
+        "alt": "Swosti Hotel, Puri — project image"
+      }
+    ]
+  },
+  {
+    "slug": "taj-hotel",
+    "sourceId": "20bbf797-fd12-4f2b-a33c-40d3236ab450",
+    "name": "Taj Hotel",
+    "category": "hospitality",
+    "location": "Puri , Odisha",
+    "country": "India",
+    "international": false,
+    "client": "TAJ resort",
+    "architect": "HBA STUDIO",
+    "specs": [
+      {
+        "label": "No. of keys",
+        "value": "91"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/taj-hotel.webp",
+        "alt": "Taj Hotel, Puri , Odisha — project image"
+      }
+    ]
+  },
+  {
+    "slug": "tata-memorial-hospital",
+    "sourceId": "f3f9e009-6681-42f6-95af-8699fdc444bb",
+    "name": "TATA Memorial Hospital",
+    "category": "healthcare",
+    "location": "Bhubaneswar",
+    "country": "India",
+    "international": false,
+    "client": "Tata Group",
+    "architect": "Karan Grover & RajivNarain",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "100 Crores"
+      },
+      {
+        "label": "No. of Beds",
+        "value": "500"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/tata-memorial-hospital.webp",
+        "alt": "TATA Memorial Hospital, Bhubaneswar — project image"
+      }
+    ]
+  },
+  {
+    "slug": "the-waves",
+    "sourceId": "83038714-ae64-4fff-b0f6-cf29c418483e",
+    "name": "The Waves",
+    "category": "hospitality",
+    "location": "Trivandrum",
+    "country": "India",
+    "international": false,
+    "client": "The Waves",
+    "architect": "P G PATKI",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "198"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/the-waves.webp",
+        "alt": "The Waves, Trivandrum — project image"
+      }
+    ]
+  },
+  {
+    "slug": "tivona-city",
+    "sourceId": "90dc4f7f-3b4f-4fee-bd37-26619f90c830",
+    "name": "Tivona City",
+    "category": "residential",
+    "location": "Udaipur",
+    "country": "India",
+    "international": false,
+    "client": "Premal Parekh",
+    "architect": "Neo Modern Arch",
+    "area": "18 lakh sq ft",
+    "height": "12 storey",
+    "images": [
+      {
+        "src": "/media/projects/tivona-city.webp",
+        "alt": "Tivona City, Udaipur — project image"
+      }
+    ]
+  },
+  {
+    "slug": "transit-hospital",
+    "sourceId": "4daeaa8d-a55d-423f-9a3b-506b222ae01c",
+    "name": "Transit Hospital",
+    "category": "healthcare",
+    "location": "Mazgaon, Mumbai",
+    "country": "India",
+    "international": false,
+    "client": "Aga Khan Foundation",
+    "architect": "P G Patki & Associates",
+    "specs": [
+      {
+        "label": "Cost",
+        "value": "50 Crores"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/transit-hospital.webp",
+        "alt": "Transit Hospital, Mazgaon, Mumbai — project image"
+      }
+    ]
+  },
+  {
+    "slug": "uc-jain-gap-goa",
+    "sourceId": "0816f0c3-335a-4a40-bf08-c69656c44e1a",
+    "name": "UC Jain-gap-goa",
+    "category": "commercial",
+    "location": "Goa",
+    "country": "India",
+    "international": false,
+    "client": "GSIDC, Goa",
+    "architect": "UC Jain",
+    "height": "4 storey",
+    "images": [
+      {
+        "src": "/media/projects/uc-jain-gap-goa.webp",
+        "alt": "UC Jain-gap-goa, Goa — project image"
+      }
+    ]
+  },
+  {
+    "slug": "upaca-academy",
+    "sourceId": "cb1a43db-cc84-4ba6-9d90-fa0ef537c40b",
+    "name": "UPACA Academy",
+    "category": "institutional",
+    "location": "Mt. Abu, Rajasthan, India",
+    "country": "India",
+    "international": false,
+    "client": "Uttam Prakash Shiksha",
+    "architect": "Neo Modern",
+    "area": "1.5 Lakh Sq.Ft",
+    "images": [
+      {
+        "src": "/media/projects/upaca-academy.webp",
+        "alt": "UPACA Academy, Mt. Abu, Rajasthan, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "warehouse-roha",
+    "sourceId": "83cf9a9d-44ae-42f8-a1d5-e4718a87c635",
+    "name": "Warehouse Roha",
+    "category": "industrial",
+    "location": "Roha, Maharashtra",
+    "country": "India",
+    "international": false,
+    "client": "Unichem Laboratories Pvt Ltd",
+    "inHouseArchitecture": true,
+    "images": [
+      {
+        "src": "/media/projects/warehouse-roha.webp",
+        "alt": "Warehouse Roha, Roha, Maharashtra — project image"
+      }
+    ]
+  },
+  {
+    "slug": "westline-signature",
+    "sourceId": "2b43cb07-cd0b-4fbc-971c-2cb4500b2d88",
+    "name": "Westline Signature",
+    "category": "tall-structures",
+    "location": "Karnataka",
+    "country": "India",
+    "international": false,
+    "client": "Westline Builders",
+    "architect": "Guulshon Roy",
+    "area": "3.4 Lakh Sq.Ft",
+    "height": "43 Storey",
+    "images": [
+      {
+        "src": "/media/projects/westline-signature.webp",
+        "alt": "Westline Signature, Karnataka — project image"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "world-trade-centre",
+    "sourceId": "38b81685-d862-40ad-9785-429a949a85df",
+    "name": "World Trade Centre",
+    "category": "commercial",
+    "location": "New Delhi, India",
+    "country": "India",
+    "international": false,
+    "client": "NBCC",
+    "architect": "Sikka Associates Architects",
+    "area": "5.5 Million Sq.Ft",
+    "height": "3B + G + 9 + Roof",
+    "specs": [
+      {
+        "label": "EPC Contractor",
+        "value": "NCC"
+      }
+    ],
+    "summary": "The iconic feature of this project is the restaurant, supported on a balanced cantilever from the central core.",
+    "images": [
+      {
+        "src": "/media/projects/world-trade-centre.webp",
+        "alt": "World Trade Centre, New Delhi, India — project image"
+      }
+    ]
+  },
+  {
+    "slug": "yamuna-skycity",
+    "sourceId": "c461ffc4-33ad-404c-867a-48c2b1496bbf",
+    "name": "Yamuna SkyCity",
+    "category": "residential",
+    "location": "Mangalore",
+    "country": "India",
+    "international": false,
+    "client": "Yamuna Homes Pvt Ltd",
+    "architect": "Arch Technis",
+    "area": "11 Lakhs sq ft",
+    "height": "210m",
+    "images": [
+      {
+        "src": "/media/projects/yamuna-skycity.webp",
+        "alt": "Yamuna SkyCity, Mangalore — project image"
+      }
+    ]
+  },
+  {
+    "slug": "ymca",
+    "sourceId": "78c7e502-7632-4220-a12f-66e20adf4748",
+    "name": "YMCA",
+    "category": "hospitality",
+    "status": "completed",
+    "location": "Ahmedabad",
+    "country": "India",
+    "international": false,
+    "client": "YMCA CLUB",
+    "specs": [
+      {
+        "label": "No. of Keys",
+        "value": "35"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/projects/ymca.webp",
+        "alt": "YMCA, Ahmedabad — project image"
+      }
+    ]
+  }
+]

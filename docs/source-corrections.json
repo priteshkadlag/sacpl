@@ -1,0 +1,134 @@
+[
+  {
+    "project": "Satra Hills",
+    "field": "location",
+    "from": "Ghatkhopar, Mumbai, IN",
+    "to": "Ghatkopar, Mumbai, IN"
+  },
+  {
+    "project": "RC-B-045",
+    "field": "international",
+    "from": "false",
+    "to": "true"
+  },
+  {
+    "project": "DWARKESH FRAGRANCE",
+    "field": "client",
+    "from": "Dawrkesh Group",
+    "to": "Dwarkesh Group"
+  },
+  {
+    "project": "UPACA Academy",
+    "field": "client",
+    "from": "Uttam Prakash Shikasha",
+    "to": "Uttam Prakash Shiksha"
+  },
+  {
+    "project": "Decathlon - Ware House",
+    "field": "name",
+    "from": "Decathlon - Ware House",
+    "to": "Decathlon - Warehouse"
+  },
+  {
+    "project": "Decathlon - Ware House",
+    "field": "location",
+    "from": "Mallur, Tamilnadu",
+    "to": "Mallur, Tamil Nadu"
+  },
+  {
+    "project": "RADDISON BLU",
+    "field": "name",
+    "from": "Raddison Blu",
+    "to": "Radisson Blu"
+  },
+  {
+    "project": "RADDISON",
+    "field": "name",
+    "from": "Raddison",
+    "to": "Radisson"
+  },
+  {
+    "project": "MARRIOT AUTOGRAPH COLLECTION",
+    "field": "name",
+    "from": "Marriot Autograph Collection",
+    "to": "Marriott Autograph Collection"
+  },
+  {
+    "project": "MARRIOT AUTOGRAPH COLLECTION",
+    "field": "client",
+    "from": "Marriot",
+    "to": "Marriott"
+  },
+  {
+    "project": "NORTH JAI RAMESHWAR",
+    "field": "location",
+    "from": "Goregoan, Mumbai",
+    "to": "Goregaon, Mumbai"
+  },
+  {
+    "project": "TATA Memorial Hospital",
+    "field": "location",
+    "from": "Bhubaneshwar",
+    "to": "Bhubaneswar"
+  },
+  {
+    "project": "Construction of 2000 Units Social Housing",
+    "field": "international",
+    "from": "false",
+    "to": "true"
+  },
+  {
+    "project": "INTERNATIONAL CRICKET STADIUM, ITANAGAR",
+    "field": "location",
+    "from": "ITANAGAR, ARUNANCHALPRADESH",
+    "to": "ITANAGAR, Arunachal Pradesh"
+  },
+  {
+    "project": "INTERNATIONAL CRICKET STADIUM, MALDIVES",
+    "field": "international",
+    "from": "false",
+    "to": "true"
+  },
+  {
+    "project": "KALINGA INTERNATIONAL SPORTS COMPLEX - ATHLETICS",
+    "field": "location",
+    "from": "Bhubaneshwar",
+    "to": "Bhubaneswar"
+  },
+  {
+    "project": "KALINGA INTERNATIONAL SPORTS COMPLEX - TENNIS COURT",
+    "field": "location",
+    "from": "Bhubaneshwar",
+    "to": "Bhubaneswar"
+  },
+  {
+    "project": "Mechnikov Biotechnology company - Nicaragua",
+    "field": "international",
+    "from": "false",
+    "to": "true"
+  },
+  {
+    "project": "ANARKALI HOTEL",
+    "field": "location",
+    "from": "Mahableshwar",
+    "to": "Mahabaleshwar"
+  },
+  {
+    "project": "KALINGA INTERNATIONAL SPORTS COMPLEX - AQUATICS",
+    "field": "location",
+    "from": "BHUBANESHWAR",
+    "to": "Bhubaneswar"
+  },
+  {
+    "project": "Farukhnagar - Warehouse",
+    "field": "record",
+    "from": "institutional (10431e28-25e3-4bbf-ad57-61a3c115bd68)",
+    "to": "merged into Industrial \"Farukhnagar Warehouse\""
+  },
+  {
+    "project": "Farukhanagar Warehouse",
+    "field": "name",
+    "from": "Farukhanagar Warehouse",
+    "to": "Farukhnagar Warehouse"
+  }
+]
